@@ -7,12 +7,12 @@ function FogRmoved(thisLocationEggs, local)
 {
 	for (let c = 0; c < thisLocationEggs.length; c++)
 	{
+		let description = thisLocationEggs[c].getElementsByTagName('span')[0];
+		let img = thisLocationEggs[c].getElementsByTagName('img')[0];
+		
 		for (let i = 0; i < local.length; i++)
 		{
-			let thisEgg = [];
-			let description = thisLocationEggs[c].getElementsByTagName('span')[0];
-			let img = thisLocationEggs[c].getElementsByTagName('img')[0]
-			
+			let thisEgg = [];	
 			thisEgg = local[i].split('$');
 			
 			if (thisEgg.includes(description.innerText) == true)
@@ -26,8 +26,20 @@ function FogRmoved(thisLocationEggs, local)
 	}
 }
 
-
 FogRmoved(thisLocationEggs, locations[thisLocationIndex]);
 
-
 console.log('fog already remved! enjoy!');
+
+//// a bug :( but i do not know/////
+/*
+
+let c = ['﻿This drab egg rests far from the water’s edge.$e1.png'];
+let a = c[0].split('$');
+let str = 'This drab egg rests far from the water’s edge.';
+console.log(a);
+
+console.log(a.includes(str)); // why false?
+console.log(a[0] == str); // why???
+
+*/
+

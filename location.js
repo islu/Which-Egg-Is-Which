@@ -36,7 +36,7 @@ const alpine = [
 	"This shiny egg gives off an almost magical aura.$e90.png",
 	"This tiny cobalt egg has a crystalline sheen.$e92.png",
 	"This egg shines brightly in the sunlight.$e96.png",
-	"The markings on this egg glow brightly in the shadows.$e98.gif",
+	"This metallic egg shows faint iridescence in moonlight.$e98.gif",
 	"This small egg is engulfed in a cool, purple flame.$e99.png",
 	"This egg has an orange aura radiating from it.$e100.png",
 	"This egg is hidden behind the others, as if it is shy.$e105.png",
@@ -159,7 +159,7 @@ const desert = [
 	"This shiny egg gives off an almost magical aura.$e90.png",
 	"This tiny cobalt egg has a crystalline sheen.$e92.png",
 	"This egg shines brightly in the sunlight.$e96.png",
-	"The markings on this egg glow brightly in the shadows.$e98.gif",
+	"This metallic egg shows faint iridescence in moonlight.$e98.gif",
 	"This egg has an orange aura radiating from it.$e100.png",
 	"This egg is buried in leaf litter.$e107.png",
 	"This egg resembles a glowing stone.$e108.gif",
@@ -329,7 +329,10 @@ const jungle = [
 	"Mana courses throughout this glassy egg.$e174.png",
 	"This shiny egg seems to radiate power.$e183.png",
 	"This egg has a rough shell.$e185.png",
-	"This egg has bright orange and green markings.$e186.png"
+	"This egg has bright orange and green markings.$e186.png",
+	"This egg looks like it doesn’t belong; it is brightly colored with white spots.$e59.png",
+	"This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much warmer than the rest of the eggs.$e60.png",
+	"This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much heavier than the other eggs.$e190.png"
 ]
 const volcano = [
 	"This tiny egg is rather light.$e2.png",
@@ -350,7 +353,7 @@ const volcano = [
 	"This egg is really hot.$e54.png",
 	"Cold flames dance across the surface of this egg.$e55.png",
 	"This mottled egg looks positively ancient.$e56.png",
-	"This rough egg has shimmering veins of crystal running across its surface.$e58.png",
+	"This rough egg has shimmering veins of crystal running across its surface.$e58.gif",
 	"It’s bright. And pink.$e62.png",
 	"Powerful energy emanates from this egg.$e67.png",
 	"This egg is heavy and rough, as if it were made out of rock.$e70.png",
@@ -364,7 +367,7 @@ const volcano = [
 	"This tiny cobalt egg has a crystalline sheen.$e92.png",
 	"This red and gold egg sits before the others, almost daring you to grab it.$e94.png",
 	"This egg shines brightly in the sunlight.$e96.png",
-	"The markings on this egg glow brightly in the shadows.$e98.gif",
+	"This metallic egg shows faint iridescence in moonlight.$e98.gif",
 	"This egg has an orange aura radiating from it.$e100.png",
 	"This egg is almost too hot to touch.$e101.png",
 	"This egg is hidden behind the others, as if it is shy.$e105.png",
