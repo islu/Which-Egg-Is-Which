@@ -70,7 +70,7 @@ const alpine = [
 	"Mana courses throughout this glassy egg.$e172.png",
 	"This shiny egg seems to radiate power.$e179.png",
 	"This egg shimmers like gold.$e187.png"
-]
+];
 const coast = [
 	"﻿This drab egg rests far from the water’s edge.$e1.png",
 	"This tiny egg is rather light.$e2.png",
@@ -130,7 +130,7 @@ const coast = [
 	"This shiny egg seems to radiate power.$e180.png",
 	"Water glistens on this egg’s shimmering shell.$e188.png",
 	"This tiny egg is striped and feels coarse.$e189.png"
-]
+];
 const desert = [
 	"This tiny egg is rather light.$e2.png",
 	"This egg has a faint green glow around it.$e8.png",
@@ -185,7 +185,7 @@ const desert = [
 	"Mana courses throughout this glassy egg.$e175.png",
 	"The air shimmers around this egg, as if from heat.$e178.png",
 	"This shiny egg seems to radiate power.$e181.png"
-]
+];
 const forest = [
 	"This tiny egg is rather light.$e2.png",
 	"This heavy egg has a soft, yielding shell.$e4.png",
@@ -262,7 +262,7 @@ const forest = [
 	"This shiny egg seems to radiate power.$e182.png",
 	"This egg has a rough shell.$e185.png",
 	"This ashen egg is smooth to the touch.$e19.png"
-]
+];
 const jungle = [
 	"This tiny egg is rather light.$e2.png",
 	"This heavy egg has a soft, yielding shell.$e4.png",
@@ -333,7 +333,7 @@ const jungle = [
 	"This egg looks like it doesn’t belong; it is brightly colored with white spots.$e59.png",
 	"This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much warmer than the rest of the eggs.$e60.png",
 	"This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much heavier than the other eggs.$e190.png"
-]
+];
 const volcano = [
 	"This tiny egg is rather light.$e2.png",
 	"This egg has a faint green glow around it.$e8.png",
@@ -392,4 +392,19 @@ const volcano = [
 	"Mana courses throughout this glassy egg.$e176.png",
 	"This shiny egg seems to radiate power.$e184.png",
 	"This ashen egg is smooth to the touch.$e19.png"
-]
+];
+const holiday = [
+	// Halloween
+	"This egg is stone cold and smells rotten.$halloween2008.png",
+	"This egg smells like the autumn harvest.$halloween2009.png",
+	"This egg is covered in a dark crust.$halloween2010.png",
+	"This egg fades into the shadows.$halloween2011.png",
+	"This egg is wedged in a dark corner.$halloween2012.png",
+	"This egg appears to have an evil grin.$halloween2013.png",
+	"Being near this egg makes it hard to think clearly.$halloween2014.png",
+	"The pattern on this egg’s shell is unsettling..$halloween2015.png",
+	"This downy egg is hidden in brambles.$halloween2016.png",
+	"This warm egg is tangled in the roots of a dead tree.$halloween2017.png",
+	"This egg has reflective spots that remind you of gems, or eyes.$halloween2018.png"
+
+];

@@ -1,9 +1,9 @@
 let thisLocationEggs = document.querySelector('.eggs').children;
 let thisUrl = document.URL;
 let thisLocationIndex = thisUrl[thisUrl.length-1];
-let locations = [null, coast, desert, forest, jungle, alpine, volcano];
+let locations = [null, coast, desert, forest, jungle, alpine, volcano, holiday];
 
-function FogRmoved(thisLocationEggs, local)
+function remove_fog(thisLocationEggs, local)
 {
 	for (let c = 0; c < thisLocationEggs.length; c++)
 	{
@@ -26,11 +26,28 @@ function FogRmoved(thisLocationEggs, local)
 	}
 }
 
-FogRmoved(thisLocationEggs, locations[thisLocationIndex]);
+remove_fog(thisLocationEggs, locations[thisLocationIndex]);
 
-console.log('fog already remved! enjoy!');
+console.log('Fog Already Remved! ENJOY!');
 
-//// a bug :( but i do not know/////
+/// new function ///
+
+//document.getElementsByClassName('ap')[0].children
+//HTMLCollection(30)
+//document.getElementsByClassName('ap')[0].children[0]
+/*
+<div>
+	<a href="abandoned/Sb6Hu/ih2Eb09u">
+		<img class="spr" alt="egg" src="/images/aXpC.png">
+	</a>
+	4 days and 2 hours left
+</div>
+*/
+
+//let a = document.getElementsByClassName('ap')[0].children[0];
+
+
+//// a bug :( /////
 /*
 
 let c = ['﻿This drab egg rests far from the water’s edge.$e1.png'];
