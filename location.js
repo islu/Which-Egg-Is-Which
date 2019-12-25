@@ -408,6 +408,18 @@ const holiday = [
 	"The pattern on this egg’s shell is unsettling..$halloween2015.png",
 	"This downy egg is hidden in brambles.$halloween2016.png",
 	"This warm egg is tangled in the roots of a dead tree.$halloween2017.png",
-	"This egg has reflective spots that remind you of gems, or eyes.$halloween2018.png"
-
+	"This egg has reflective spots that remind you of gems, or eyes.$halloween2018.png",
+	// Christmas
+	"This egg has a holly leaf stuck to it.$christmas2007.png",
+	"This egg is covered with bright, festive stripes.$christmas2008.png",
+	"This egg fills you with holiday cheer.$christmas2009.png",
+	"This egg shines like a holiday ribbon.$christmas2010.png",
+	"This colorful egg is covered by a light layer of snow.	$christmas2011.png",
+	"This egg has a rich, shiny pattern on it.$christmas2012.png",
+	"This egg emits a soft, heartwarming glow.$christmas2013.png",
+	"This colorful egg gleams in the light.$christmas2014.png",
+	"A wintry chill swirls just beneath the surface of this egg.$christmas2015.png",
+	"This egg is surrounded by frost.$christmas2016.png",
+	"This festive egg gives off comforting warmth.$christmas2017.png",
+	"This egg glows with a soft, soothing light.$christmas2018.png"
 ];
