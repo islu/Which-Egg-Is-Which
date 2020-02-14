@@ -400,7 +400,7 @@ const holiday = [
 	// Valentine's Day
 	"This egg is speckled and very fragile.$valentine2009.png",
 	"This egg looks delicate and sweet.$valentine2010.png",
-	"This sweet smelling egg is covered by a ribbon.$valentine2011.png",
+	"This sweet-smelling egg is covered by a ribbon.$valentine2011.png",
 	"This scarlet egg has a faintly sweet aroma.$valentine2012.png",
 	"This egg is a deep pink.$valentine2013.png",
 	"This radiant white egg has red and gold swirls on it.$valentine2014.png",
