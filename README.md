@@ -1,6 +1,6 @@
 # Which-Egg-Is-Which
 ## Overview
-![](/figure.gif)
+![](/demo.gif)
 ### Chrome Extension For **Dragon Cave** Web Online Game
 The Main Function:
 - Replace the hidden egg with the original one
@@ -21,6 +21,6 @@ Copyright (c) 2019 islu.
 All images belong to the artist of the site (Dragon Cave) so they do not belong to me.
 Image source form: https://dragcave.fandom.com/wiki/Dragon_Cave_Wiki
 
-Other part use the version 3 of the GNU General Public License.
+Other part use MIT License.
 
 ```
