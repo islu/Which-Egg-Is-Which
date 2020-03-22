@@ -17,13 +17,13 @@
 	{
 		"browser_style": true,
 		"default_title": "Info",
-		"default_popup": "event.html"
+		"default_popup": "view/event.html"
 	},
 
 	"content_scripts": [
 		{
 			"matches": [ "https://dragcave.net/locations/*" ],
-			"js": [ "location.js", "content.js" ]
+			"js": [ "js/location.js", "js/content.js" ]
 		}
 	],
 
