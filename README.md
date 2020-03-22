@@ -4,6 +4,7 @@
 ### Chrome Extension For **Dragon Cave** Web Online Game
 The Main Function:
 - Replace the hidden egg with the original one
+- Hover on abandoned egg can show name code
 ### How To Use
 To load chrome extension in Chrome:
 - open up `chrome://extensions/` in browser
