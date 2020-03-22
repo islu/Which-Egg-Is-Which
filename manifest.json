@@ -3,7 +3,7 @@
 	"name": "Which Egg Is Which",
 	"description": "Replace the hidden egg with the original one.",
 	"version": "1.12",
-	
+
 	"icons":
 	{
 		"16": "icons/icon16.png",
@@ -11,19 +11,21 @@
 		"128": "icons/icon128.png"
 	},
 
-	"permissions" : ["tabs"],	
-	
-	"browser_action": {
+	"permissions" : [ "tabs" ],
+
+	"browser_action":
+	{
+		"browser_style": true,
 		"default_title": "Info",
-		"default_popup": "home.html"
+		"default_popup": "event.html"
 	},
-	
+
 	"content_scripts": [
 		{
 			"matches": [ "https://dragcave.net/locations/*" ],
 			"js": [ "location.js", "content.js" ]
 		}
 	],
-	
+
 	"web_accessible_resources": [ "images/*.png", "images/*.gif" ]
 }
