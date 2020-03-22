@@ -69,7 +69,9 @@ const alpine = [
 	"This egg has a very clean look; it’s completely devoid of dirt and scratches.$e171.png",
 	"Mana courses throughout this glassy egg.$e172.png",
 	"This shiny egg seems to radiate power.$e179.png",
-	"This egg shimmers like gold.$e187.png"
+	"This egg shimmers like gold.$e187.png",
+	"This icy egg sparkles with frost.$e193.png",
+	"This egg is very large, but light for its size.$e194.png"
 ];
 const coast = [
 	"﻿This drab egg rests far from the water’s edge.$e1.png",
@@ -186,7 +188,8 @@ const desert = [
 	"Mana courses throughout this glassy egg.$e175.png",
 	"The air shimmers around this egg, as if from heat.$e178.png",
 	"This shiny egg seems to radiate power.$e181.png",
-	"This egg was buried in a sand dune.﻿$e191.png"
+	"This egg was buried in a sand dune.﻿$e191.png",
+	"This egg is very large, but light for its size.$e194.png"
 ];
 const forest = [
 	"This tiny egg is rather light.$e2.png",
@@ -335,7 +338,8 @@ const jungle = [
 	"This egg looks like it doesn’t belong; it is brightly colored with white spots.$e59.png",
 	"This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much warmer than the rest of the eggs.$e60.png",
 	"This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much heavier than the other eggs.$e190.png",
-	"The vibrant scales on this egg glisten in the sunlight.$e192.png"
+	"The vibrant scales on this egg glisten in the sunlight.$e192.png",
+	"This egg is very large, but light for its size.$e194.png"
 ];
 const volcano = [
 	"This tiny egg is rather light.$e2.png",
