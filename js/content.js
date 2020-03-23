@@ -10,10 +10,9 @@ function removeFog(thisLocationEggs, local) {
 		let img = thisLocationEggs[c].getElementsByTagName('img')[0];
 
 		for (let i = 0; i < local.length; i++) {
-			let thisEgg = [];
-			thisEgg = local[i].split('$');
-
-			if (thisEgg.includes(description.innerText) == true) {
+			let thisEgg = local[i].split('$');
+			
+			if (thisEgg[0].replace("\ufeff","") == description.innerText) {
 				img.src = chrome.extension.getURL('images/'+thisEgg[1]);
 				img.removeAttribute('width');
 				img.removeAttribute('height');
