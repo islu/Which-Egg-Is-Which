@@ -4,7 +4,7 @@ let eggImg;
 // show egg name code
 eggs.hover(showCode, hideCode);
 eggs.hover(showLineage, function(){});
-highlight();
+// highlight();
 showLineage();
 
 function showCode() {
@@ -34,7 +34,7 @@ function highlight() {
 function showLineage() {
 	//https://dragcave.net/lineage/:code
 	let code = this.href.split('/')[4];
-	$('p').html(function() {
+	$('.adsbygoogle').html(function() {
 		return '<iframe src="https://dragcave.net/lineage/'+code+'" width="100%" height="100%" frameborder="0" scrolling="yes""></iframe>'
 	})
 }
