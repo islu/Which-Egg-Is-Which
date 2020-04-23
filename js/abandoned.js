@@ -35,6 +35,6 @@ function showLineage() {
 	//https://dragcave.net/lineage/:code
 	let code = this.href.split('/')[4];
 	$('.adsbygoogle').html(function() {
-		return '<iframe src="https://dragcave.net/lineage/'+code+'" width="100%" height="100%" frameborder="0" scrolling="yes""></iframe>'
+		return '<iframe src="https://dragcave.net/lineage/'+code+'" display="block" width="100%" height="100%" frameborder="0" scrolling="yes""></iframe>'
 	})
 }
