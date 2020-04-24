@@ -23,7 +23,7 @@
 	"content_scripts": [
 		{
 			"matches": [ "https://dragcave.net/locations/*" ],
-			"js": [ "js/jquery.min.js", "js/location.js", "js/content.js" ]
+			"js": [ "js/jquery.min.js", "js/location.js", "js/rarity.js", "js/content.js" ]
 		},
 		{
 			"matches": [ "https://dragcave.net/abandoned" ],
