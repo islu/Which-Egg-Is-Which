@@ -266,7 +266,8 @@ const forest = [
 	"Mana courses throughout this glassy egg.$e173.png",
 	"This shiny egg seems to radiate power.$e182.png",
 	"This egg has a rough shell.$e185.png",
-	"This ashen egg is smooth to the touch.$e19.png"
+	"This ashen egg is smooth to the touch.$e19.png",
+	"Oh my. There is a Leetle Tree among the eggs.$Leetle_Tree.gif"
 ];
 const jungle = [
 	"This tiny egg is rather light.$e2.png",
