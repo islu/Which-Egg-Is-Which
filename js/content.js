@@ -25,7 +25,7 @@ function remove_fog(thisLocationEggs, local) {
 
 function label_rarity(element, key) {
 	if (RARITY[key] != undefined) {
-		switch (RARITY[key][rarity]) {
+		switch (RARITY[key].rarity) {
 			case "Uncommon":    element.style = "background-color:"+SILVER; break;
 			case "Rare":        element.style = "background-color:"+GOLD; break;
 			case "Mythic Rare": element.style = "background-color:"+RED; break;

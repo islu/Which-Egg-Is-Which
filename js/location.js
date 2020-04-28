@@ -71,7 +71,8 @@ const alpine = [
 	"This shiny egg seems to radiate power.$e179.png",
 	"This egg shimmers like gold.$e187.png",
 	"This icy egg sparkles with frost.$e193.png",
-	"This egg is very large, but light for its size.$e194.png"
+	"This egg is very large, but light for its size.$e194.png",
+	"An aura of serenity surrounds this iridescent egg.$e195.png",
 ];
 const coast = [
 	"﻿This drab egg rests far from the water’s edge.$e1.png",
@@ -399,7 +400,8 @@ const volcano = [
 	"This egg has a very clean look; it’s completely devoid of dirt and scratches.$e171.png",
 	"Mana courses throughout this glassy egg.$e176.png",
 	"This shiny egg seems to radiate power.$e184.png",
-	"This ashen egg is smooth to the touch.$e19.png"
+	"This ashen egg is smooth to the touch.$e19.png",
+	"This dull egg feels cozily warm.$e196.png",
 ];
 const holiday = [
 	// Valentine's Day
