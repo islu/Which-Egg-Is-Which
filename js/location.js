@@ -73,6 +73,10 @@ const alpine = [
 	"This icy egg sparkles with frost.$e193.png",
 	"This egg is very large, but light for its size.$e194.png",
 	"An aura of serenity surrounds this iridescent egg.$e195.png",
+	"The brilliant blue spots on this egg stand out.$e197.png",
+	"This tiny egg resembles a seed.$e198.png",
+	"This shimmering egg was hidden far from the others.$e199.png",
+	"This soft egg was carefully nestled in feathers and snow.$e201.png",
 ];
 const coast = [
 	"﻿This drab egg rests far from the water’s edge.$e1.png",
@@ -133,7 +137,11 @@ const coast = [
 	"This shiny egg seems to radiate power.$e180.png",
 	"Water glistens on this egg’s shimmering shell.$e188.png",
 	"This tiny egg is striped and feels coarse.$e189.png",
-	"The vibrant scales on this egg glisten in the sunlight.$e192.png"
+	"The vibrant scales on this egg glisten in the sunlight.$e192.png",
+	"The brilliant blue spots on this egg stand out.$e197.png",
+	"This tiny egg resembles a seed.$e198.png",
+	"This shimmering egg was hidden far from the others.$e199.png",
+	"This egg’s shell is slippery and clean.$e200.png",
 ];
 const desert = [
 	"This tiny egg is rather light.$e2.png",
@@ -190,7 +198,10 @@ const desert = [
 	"The air shimmers around this egg, as if from heat.$e178.png",
 	"This shiny egg seems to radiate power.$e181.png",
 	"This egg was buried in a sand dune.﻿$e191.png",
-	"This egg is very large, but light for its size.$e194.png"
+	"This egg is very large, but light for its size.$e194.png",
+	"The brilliant blue spots on this egg stand out.$e197.png",
+	"This tiny egg resembles a seed.$e198.png",
+	"This shimmering egg was hidden far from the others.$e199.png",
 ];
 const forest = [
 	"This tiny egg is rather light.$e2.png",
@@ -268,7 +279,11 @@ const forest = [
 	"This shiny egg seems to radiate power.$e182.png",
 	"This egg has a rough shell.$e185.png",
 	"This ashen egg is smooth to the touch.$e19.png",
-	"Oh my. There is a Leetle Tree among the eggs.$Leetle_Tree.gif"
+	"Oh my. There is a Leetle Tree among the eggs.$Leetle_Tree.gif",
+	"The brilliant blue spots on this egg stand out.$e197.png",
+	"This tiny egg resembles a seed.$e198.png",
+	"This shimmering egg was hidden far from the others.$e199.png",
+	"This egg’s shell is slippery and clean.$e200.png",
 ];
 const jungle = [
 	"This tiny egg is rather light.$e2.png",
@@ -341,7 +356,11 @@ const jungle = [
 	"This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much warmer than the rest of the eggs.$e60.png",
 	"This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much heavier than the other eggs.$e190.png",
 	"The vibrant scales on this egg glisten in the sunlight.$e192.png",
-	"This egg is very large, but light for its size.$e194.png"
+	"This egg is very large, but light for its size.$e194.png",
+	"The brilliant blue spots on this egg stand out.$e197.png",
+	"This tiny egg resembles a seed.$e198.png",
+	"This shimmering egg was hidden far from the others.$e199.png",
+	"This egg’s shell is slippery and clean.$e200.png",
 ];
 const volcano = [
 	"This tiny egg is rather light.$e2.png",
@@ -402,6 +421,9 @@ const volcano = [
 	"This shiny egg seems to radiate power.$e184.png",
 	"This ashen egg is smooth to the touch.$e19.png",
 	"This dull egg feels cozily warm.$e196.png",
+	"The brilliant blue spots on this egg stand out.$e197.png",
+	"This tiny egg resembles a seed.$e198.png",
+	"This shimmering egg was hidden far from the others.$e199.png",
 ];
 const holiday = [
 	// Valentine's Day
