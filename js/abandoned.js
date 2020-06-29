@@ -10,7 +10,7 @@ show_lineage();
 function show_code() {
   let code = this.href.split('/')[4];
 	eggImg = this.firstChild;
-	this.text = code;	
+	this.text = code;
 }
 function hide_code() {
 	this.innerHTML = "";

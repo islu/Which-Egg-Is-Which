@@ -67,7 +67,7 @@ const alpine = [
 	"This opalescent egg shimmers in the moonlight.$e163.png",
 	"There is a thin layer of moisture coating this egg.$e165.png",
 	"This egg has a very clean look; it’s completely devoid of dirt and scratches.$e171.png",
-	"Mana courses throughout this glassy egg.$e172.png",
+	"Mana courses throughout this glassy egg.$e172.gif",
 	"This shiny egg seems to radiate power.$e179.png",
 	"This egg shimmers like gold.$e187.png",
 	"This icy egg sparkles with frost.$e193.png",
@@ -77,6 +77,7 @@ const alpine = [
 	"This tiny egg resembles a seed.$e198.png",
 	"This shimmering egg was hidden far from the others.$e199.png",
 	"This soft egg was carefully nestled in feathers and snow.$e201.png",
+	"Mana flows like a current through this glassy egg.$e208.png",
 ];
 const coast = [
 	"﻿This drab egg rests far from the water’s edge.$e1.png",
@@ -134,6 +135,7 @@ const coast = [
 	"This egg seems to be floating on a puddle.$e168.png",
 	"This egg is slimy and blue.$e169.png",
 	"This egg has a very clean look; it’s completely devoid of dirt and scratches.$e171.png",
+	"Mana courses throughout this glassy egg.$e177.gif",
 	"This shiny egg seems to radiate power.$e180.png",
 	"Water glistens on this egg’s shimmering shell.$e188.png",
 	"This tiny egg is striped and feels coarse.$e189.png",
@@ -142,6 +144,7 @@ const coast = [
 	"This tiny egg resembles a seed.$e198.png",
 	"This shimmering egg was hidden far from the others.$e199.png",
 	"This egg’s shell is slippery and clean.$e200.png",
+	"Mana flows like a current through this glassy egg.$e208.png",
 ];
 const desert = [
 	"This tiny egg is rather light.$e2.png",
@@ -194,7 +197,7 @@ const desert = [
 	"This egg smells strongly of turpentine.$e161.png",
 	"This egg is split down the middle into two colors.$e162.png",
 	"This egg has a very clean look; it’s completely devoid of dirt and scratches.$e171.png",
-	"Mana courses throughout this glassy egg.$e175.png",
+	"Mana courses throughout this glassy egg.$e175.gif",
 	"The air shimmers around this egg, as if from heat.$e178.png",
 	"This shiny egg seems to radiate power.$e181.png",
 	"This egg was buried in a sand dune.﻿$e191.png",
@@ -202,6 +205,7 @@ const desert = [
 	"The brilliant blue spots on this egg stand out.$e197.png",
 	"This tiny egg resembles a seed.$e198.png",
 	"This shimmering egg was hidden far from the others.$e199.png",
+	"Mana flows like a current through this glassy egg.$e208.png",
 ];
 const forest = [
 	"This tiny egg is rather light.$e2.png",
@@ -275,7 +279,7 @@ const forest = [
 	"This egg seems to be floating on a puddle.$e168.png",
 	"This egg shakes from time to time, as if it is eager to hatch.$e170.png",
 	"This egg has a very clean look; it’s completely devoid of dirt and scratches.$e171.png",
-	"Mana courses throughout this glassy egg.$e173.png",
+	"Mana courses throughout this glassy egg.$e173.gif",
 	"This shiny egg seems to radiate power.$e182.png",
 	"This egg has a rough shell.$e185.png",
 	"This ashen egg is smooth to the touch.$e19.png",
@@ -284,6 +288,7 @@ const forest = [
 	"This tiny egg resembles a seed.$e198.png",
 	"This shimmering egg was hidden far from the others.$e199.png",
 	"This egg’s shell is slippery and clean.$e200.png",
+	"Mana flows like a current through this glassy egg.$e208.png",
 ];
 const jungle = [
 	"This tiny egg is rather light.$e2.png",
@@ -348,7 +353,7 @@ const jungle = [
 	"This egg is split down the middle into two colors.$e162.png",
 	"This egg seems to be floating on a puddle.$e168.png",
 	"This egg has a very clean look; it’s completely devoid of dirt and scratches.$e171.png",
-	"Mana courses throughout this glassy egg.$e174.png",
+	"Mana courses throughout this glassy egg.$e174.gif",
 	"This shiny egg seems to radiate power.$e183.png",
 	"This egg has a rough shell.$e185.png",
 	"This egg has bright orange and green markings.$e186.png",
@@ -361,6 +366,7 @@ const jungle = [
 	"This tiny egg resembles a seed.$e198.png",
 	"This shimmering egg was hidden far from the others.$e199.png",
 	"This egg’s shell is slippery and clean.$e200.png",
+	"Mana flows like a current through this glassy egg.$e208.png",
 ];
 const volcano = [
 	"This tiny egg is rather light.$e2.png",
@@ -417,13 +423,14 @@ const volcano = [
 	"This egg is surrounded by fog.$e150.png",
 	"This egg is split down the middle into two colors.$e162.png",
 	"This egg has a very clean look; it’s completely devoid of dirt and scratches.$e171.png",
-	"Mana courses throughout this glassy egg.$e176.png",
+	"Mana courses throughout this glassy egg.$e176.gif",
 	"This shiny egg seems to radiate power.$e184.png",
 	"This ashen egg is smooth to the touch.$e19.png",
 	"This dull egg feels cozily warm.$e196.png",
 	"The brilliant blue spots on this egg stand out.$e197.png",
 	"This tiny egg resembles a seed.$e198.png",
 	"This shimmering egg was hidden far from the others.$e199.png",
+	"Mana flows like a current through this glassy egg.$e208.png",
 ];
 const holiday = [
 	// Valentine's Day
