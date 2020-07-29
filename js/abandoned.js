@@ -37,4 +37,5 @@ function show_lineage() {
 	$('.adsbygoogle').html(function() {
 		return '<iframe src="https://dragcave.net/lineage/'+code+'" display="block" width="100%" height="100%" frameborder="0" scrolling="yes""></iframe>'
 	})
+	//$('.online').append('<iframe src="https://dragcave.net/lineage/'+code+'" display="block" width="100%" height="400px" frameborder="0" scrolling="yes""></iframe>');
 }
