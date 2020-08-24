@@ -79,6 +79,8 @@ const alpine = [
 	"This soft egg was carefully nestled in feathers and snow.$e201.png",
 	"Mana flows like a current through this glassy egg.$e208.png",
 	"Starlight shimmers across this egg’s iridescent shell.$e209.png",
+	"This egg reminds you of the night sky.$e211.png",
+	"This plain blue egg almost seems to float.$e212.png",
 ];
 const coast = [
 	"﻿This drab egg rests far from the water’s edge.$e1.png",
@@ -146,6 +148,7 @@ const coast = [
 	"This shimmering egg was hidden far from the others.$e199.png",
 	"This egg’s shell is slippery and clean.$e200.png",
 	"Mana flows like a current through this glassy egg.$e208.png",
+	"This plain blue egg almost seems to float.$e212.png",
 ];
 const desert = [
 	"This tiny egg is rather light.$e2.png",
@@ -291,6 +294,7 @@ const forest = [
 	"This shimmering egg was hidden far from the others.$e199.png",
 	"This egg’s shell is slippery and clean.$e200.png",
 	"Mana flows like a current through this glassy egg.$e208.png",
+	"This plain blue egg almost seems to float.$e212.png",
 ];
 const jungle = [
 	"This tiny egg is rather light.$e2.png",
