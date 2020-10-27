@@ -11,7 +11,7 @@
 		"128": "icons/icon128.png"
 	},
 
-	"permissions" : [ "tabs" ],
+	"permissions" : [ "tabs", "storage" ],
 
 	"browser_action":
 	{
@@ -28,6 +28,10 @@
 		{
 			"matches": [ "https://dragcave.net/abandoned" ],
 			"js": [ "js/jquery.min.js", "js/abandoned.js" ]
+		},
+		{
+			"matches": [ "https://dragcave.net/trickortreat*" ],
+			"js": [ "js/autocollect.js" ]
 		}
 	],
 
