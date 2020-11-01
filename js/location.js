@@ -463,11 +463,12 @@ const holiday = [
 	"This egg is wedged in a dark corner.$halloween2012.png",
 	"This egg appears to have an evil grin.$halloween2013.png",
 	"Being near this egg makes it hard to think clearly.$halloween2014.png",
-	"The pattern on this egg’s shell is unsettling..$halloween2015.png",
+	"The pattern on this egg’s shell is unsettling.$halloween2015.png",
 	"This downy egg is hidden in brambles.$halloween2016.png",
 	"This warm egg is tangled in the roots of a dead tree.$halloween2017.png",
 	"This egg has reflective spots that remind you of gems, or eyes.$halloween2018.png",
 	"A fine mist rolls over this cool, scaly egg.$halloween2019.png",
+	"Dead leaves obscure this egg’s scratched shell.$halloween2020.png",
 	// Christmas
 	"This egg has a holly leaf stuck to it.$christmas2007.png",
 	"This egg is covered with bright, festive stripes.$christmas2008.png",
