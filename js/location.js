@@ -440,6 +440,7 @@ const volcano = [
 	"This tiny egg resembles a seed.$e198.png",
 	"This shimmering egg was hidden far from the others.$e199.png",
 	"Mana flows like a current through this glassy egg.$e208.png",
+	"This egg shakes slightly when taken out of the light.$e214.png",
 ];
 const holiday = [
 	// Valentine's Day
