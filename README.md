@@ -17,7 +17,7 @@ Reference for developer:
 
 ## License
 ```
-Copyright (c) 2019-2020 islu.
+Copyright (c) 2019-2021 islu.
 
 All images belong to the artist of the site (Dragon Cave) so they do not belong to me.
 Image source form: https://dragcave.fandom.com/wiki/Dragon_Cave_Wiki
