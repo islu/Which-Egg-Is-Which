@@ -83,7 +83,7 @@ const alpine = [
 	"This plain blue egg almost seems to float.$e212.png",
 ];
 const coast = [
-	"﻿This drab egg rests far from the water’s edge.$e1.png",
+	"This drab egg rests far from the water’s edge.$e1.png",
 	"This tiny egg is rather light.$e2.png",
 	"This heavy egg has a soft, yielding shell.$e3.png",
 	"This light egg is floating in the air.$e5.png",
@@ -151,6 +151,7 @@ const coast = [
 	"This plain blue egg almost seems to float.$e212.png",
 	"You hear a soft melody as you approach this egg.$e213.png",
 	"Something about this egg seems to lure you in.$e215.png",
+	"This striped egg is surprisingly heavy.$e217.png",
 ];
 const desert = [
 	"This tiny egg is rather light.$e2.png",
@@ -206,7 +207,7 @@ const desert = [
 	"Mana courses throughout this glassy egg.$e175.gif",
 	"The air shimmers around this egg, as if from heat.$e178.png",
 	"This shiny egg seems to radiate power.$e181.png",
-	"This egg was buried in a sand dune.﻿$e191.png",
+	"This egg was buried in a sand dune.$e191.png",
 	"This egg is very large, but light for its size.$e194.png",
 	"The brilliant blue spots on this egg stand out.$e197.png",
 	"This tiny egg resembles a seed.$e198.png",
@@ -224,7 +225,7 @@ const forest = [
 	"You can see the baby dragon curled up inside this translucent egg.$e14.png",
 	"This glossy green egg is rather warm.$e15.png",
 	"This delicately patterned egg is sitting in the sunshine.$e16.png",
-	"This ashen egg is smooth to the touch﻿.$e19.png",
+	"This ashen egg is smooth to the touch.$e19.png",
 	"This large egg has a lustrous sheen and appears to be covered in scales.$e20.png",
 	"This egg is dark with light speckles...or maybe it’s light with dark speckles?$e22.png",
 	"This egg has a striking pattern.$e26.png",
@@ -383,7 +384,7 @@ const volcano = [
 	"This tiny egg is rather light.$e2.png",
 	"This egg has a faint green glow around it.$e8.png",
 	"This egg has a pleasant, musky smell.$e9.png",
-	"This ashen egg is smooth to the touch﻿.$e19.png",
+	"This ashen egg is smooth to the touch.$e19.png",
 	"This egg is dark with light speckles...or maybe it’s light with dark speckles?$e22.png",
 	"This egg smells rather rancid.$e29.png",
 	"This egg makes you feel a bit uneasy.$e34.png",
@@ -444,6 +445,7 @@ const volcano = [
 	"Mana flows like a current through this glassy egg.$e208.png",
 	"This egg shakes slightly when taken out of the light.$e214.png",
 	"Something about this egg seems to lure you in.$e215.png",
+	"This egg has a dull metallic luster and is hot to the touch.$e216.png",
 ];
 const holiday = [
 	// Valentine's Day
