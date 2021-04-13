@@ -378,6 +378,7 @@ const jungle = [
 	"This egg’s shell is slippery and clean.$e200.png",
 	"Mana flows like a current through this glassy egg.$e208.png",
 	"You hear a soft melody as you approach this egg.$e213.png",
+	"This egg shakes slightly when taken out of the light.$e214.png",
 	"Something about this egg seems to lure you in.$e215.png",
 ];
 const volcano = [
