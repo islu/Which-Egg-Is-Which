@@ -430,7 +430,7 @@ const volcano = [
 	"This egg looks like a beautiful blue stone.$e134.png",
 	"This egg seems quite harmless.$e135.png",
 	"This egg is covered in mysterious patterns.$e136.png",
-	"This plain-looking egg has faint speckles.$e138.png",
+	"This plain-looking egg has faint speckles.$e139.png",
 	"This egg gives off a beautiful glow.$e140.png",
 	"This glassy egg has a single stripe on it.$e145.gif",
 	"This egg is surrounded by fog.$e150.png",
