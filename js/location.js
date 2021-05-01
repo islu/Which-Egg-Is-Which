@@ -214,6 +214,7 @@ const desert = [
 	"This shimmering egg was hidden far from the others.$e199.png",
 	"Mana flows like a current through this glassy egg.$e208.png",
 	"It almost looks like there are claw marks on this egg.$e210.png",
+	"This shiny grey egg smells of burnt metal.$e218.png",
 ];
 const forest = [
 	"This tiny egg is rather light.$e2.png",
@@ -380,6 +381,7 @@ const jungle = [
 	"You hear a soft melody as you approach this egg.$e213.png",
 	"This egg shakes slightly when taken out of the light.$e214.png",
 	"Something about this egg seems to lure you in.$e215.png",
+	"Soft chirping sounds are coming from inside the egg.$e219.png",
 ];
 const volcano = [
 	"This tiny egg is rather light.$e2.png",
@@ -447,6 +449,7 @@ const volcano = [
 	"This egg shakes slightly when taken out of the light.$e214.png",
 	"Something about this egg seems to lure you in.$e215.png",
 	"This egg has a dull metallic luster and is hot to the touch.$e216.png",
+	"This shiny grey egg smells of burnt metal.$e218.png"
 ];
 const holiday = [
 	// Valentine's Day
