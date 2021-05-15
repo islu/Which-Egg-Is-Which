@@ -30,7 +30,7 @@
 			"js": [ "js/jquery.min.js", "js/abandoned.js" ]
 		},
 		{
-			"matches": [ "https://dragcave.net/trickortreat*" ],
+			"matches": [ "https://dragcave.net/trickortreat*", "https://dragcave.net/easter*" ],
 			"js": [ "js/autocollect.js" ]
 		}
 	],
