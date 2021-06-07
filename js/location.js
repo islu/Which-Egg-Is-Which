@@ -390,6 +390,7 @@ const jungle = [
 	"This egg shakes slightly when taken out of the light.$e214.png",
 	"Something about this egg seems to lure you in.$e215.png",
 	"Soft chirping sounds are coming from inside the egg.$e219.png",
+	"This shiny egg smells faintly like flowers.$e220.png",
 ];
 const volcano = [
 	"This tiny egg is rather light.$e2.png",
