@@ -83,6 +83,7 @@ const alpine = [
 	"Starlight shimmers across this egg’s iridescent shell.$e209.png",
 	"This egg reminds you of the night sky.$e211.png",
 	"This plain blue egg almost seems to float.$e212.png",
+	"This egg shakes slightly when taken out of the light.$e214.png",
 ];
 const coast = [
 	"This drab egg rests far from the water’s edge.$e1.png",
