@@ -460,7 +460,8 @@ const volcano = [
 	"This egg shakes slightly when taken out of the light.$e214.png",
 	"Something about this egg seems to lure you in.$e215.png",
 	"This egg has a dull metallic luster and is hot to the touch.$e216.png",
-	"This shiny grey egg smells of burnt metal.$e218.png"
+	"This shiny grey egg smells of burnt metal.$e218.png",
+	"This striped egg is surprisingly heavy.$e221.png",
 ];
 const holiday = [
 	// Valentine's Day
