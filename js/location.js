@@ -205,7 +205,9 @@ const desert = [
 	"This egg has brightly colored markings on it.$e147.png",
 	"This egg is surrounded by fog.$e150.png",
 	"A delicate web-like pattern decorates this egg’s shell.$e155.png",
+	// Thunder dragon (e158): Keep both descriptions
 	"Whenever you go near this egg your hair stands on end.$e158.png",
+	"Whenever you go near this egg, your hair stands on end.$e158.png",
 	"This egg smells strongly of turpentine.$e161.png",
 	"This egg is split down the middle into two colors.$e162.png",
 	"This egg has a very clean look; it’s completely devoid of dirt and scratches.$e171.png",
