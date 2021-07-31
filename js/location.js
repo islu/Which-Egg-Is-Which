@@ -84,6 +84,7 @@ const alpine = [
 	'This egg reminds you of the night sky.$e211.png',
 	'This plain blue egg almost seems to float.$e212.png',
 	'This egg shakes slightly when taken out of the light.$e214.png',
+	'It feels like this egg knew you were coming.$e222.png',
 ];
 const coast = [
 	'This drab egg rests far from the water’s edge.$e1.png',
@@ -157,6 +158,7 @@ const coast = [
 	'You hear a soft melody as you approach this egg.$e213.png',
 	'Something about this egg seems to lure you in.$e215.png',
 	'This striped egg is surprisingly heavy.$e217.png',
+	'It feels like this egg knew you were coming.$e222.png',
 ];
 const desert = [
 	'This tiny egg is rather light.$e2.png',
@@ -222,6 +224,7 @@ const desert = [
 	'Mana flows like a current through this glassy egg.$e208.png',
 	'It almost looks like there are claw marks on this egg.$e210.png',
 	'This shiny grey egg smells of burnt metal.$e218.png',
+	'This egg has a winding pattern on it.$e223.png',
 ];
 const forest = [
 	'This tiny egg is rather light.$e2.png',
@@ -310,6 +313,7 @@ const forest = [
 	'Mana flows like a current through this glassy egg.$e208.png',
 	'This plain blue egg almost seems to float.$e212.png',
 	'This egg shakes slightly when taken out of the light.$e214.png',
+	'It feels like this egg knew you were coming.$e222.png',
 ];
 const jungle = [
 	'This tiny egg is rather light.$e2.png',
@@ -394,6 +398,8 @@ const jungle = [
 	'Something about this egg seems to lure you in.$e215.png',
 	'Soft chirping sounds are coming from inside the egg.$e219.png',
 	'This shiny egg smells faintly like flowers.$e220.png',
+	'It feels like this egg knew you were coming.$e222.png',
+	'This egg has a winding pattern on it.$e223.png',
 ];
 const volcano = [
 	'This tiny egg is rather light.$e2.png',
