@@ -13,7 +13,7 @@ setTimeout(function () {
 function clickHalloweenCollections() {
 	let img = document.getElementsByTagName('img');
 	for (let i = 0; i < img.length; i++) {
-		if (img[i]['alt'] == "Trick, or treat") { 
+		if (img[i]['alt'] == 'Trick, or treat') { 
 			img[i].click();
 		} // Happy Halloween ~ 
 	}
@@ -22,7 +22,7 @@ function clickHalloweenCollections() {
 function clickEasterCollections() {
 	let img = document.getElementsByTagName('img');
 	for (let i = 0; i < img.length; i++) {
-		if (img[i]['alt'] == "Festival of Eggs egg") { 
+		if (img[i]['alt'] == 'Festival of Eggs egg') { 
 			img[i].click();
 		}
 	}

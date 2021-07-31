@@ -2,18 +2,18 @@ let eggs = $(".spr").parent();
 let eggImg;
 
 // show egg name code
-eggs.hover(show_code, hide_code);
-eggs.hover(show_lineage, function(){});
+eggs.hover(showCode, hideCode);
+eggs.hover(showLineage, function(){});
 // highlight();
-show_lineage();
+showLineage();
 
-function show_code() {
+function showCode() {
   let code = this.href.split('/')[4];
 	eggImg = this.firstChild;
 	this.text = code;
 }
-function hide_code() {
-	this.innerHTML = "";
+function hideCode() {
+	this.innerHTML = '';
 	this.appendChild(eggImg);
 }
 function highlight() {
@@ -31,7 +31,7 @@ function highlight() {
 		}
 	}
 }
-function show_lineage() {
+function showLineage() {
 	//https://dragcave.net/lineage/:code
 	let code = this.href.split('/')[4];
 	$('.adsbygoogle').html(function() {
