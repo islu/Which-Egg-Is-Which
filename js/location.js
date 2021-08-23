@@ -85,6 +85,7 @@ const alpine = [
 	'This plain blue egg almost seems to float.$e212.png',
 	'This egg shakes slightly when taken out of the light.$e214.png',
 	'It feels like this egg knew you were coming.$e222.png',
+	'This striped egg has a rough, ridged texture.$e224.png',
 ];
 const coast = [
 	'This drab egg rests far from the water’s edge.$e1.png',
@@ -225,6 +226,7 @@ const desert = [
 	'It almost looks like there are claw marks on this egg.$e210.png',
 	'This shiny grey egg smells of burnt metal.$e218.png',
 	'This egg has a winding pattern on it.$e223.png',
+	'This striped egg has a rough, ridged texture.$e224.png',
 ];
 const forest = [
 	'This tiny egg is rather light.$e2.png',
@@ -470,6 +472,7 @@ const volcano = [
 	'This egg has a dull metallic luster and is hot to the touch.$e216.png',
 	'This shiny grey egg smells of burnt metal.$e218.png',
 	'This striped egg is surprisingly heavy.$e221.png',
+	'Tough ridges line the surface of this rough, mottled egg.$e225.png',
 ];
 const holiday = [
 	// Valentine's Day
