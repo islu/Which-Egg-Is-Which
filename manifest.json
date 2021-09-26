@@ -20,10 +20,19 @@
 		"default_popup": "view/event.html"
 	},
 
+	"background":
+	{  
+		"scripts": [
+			"js/background_biome.js",
+			"js/background_handle.js"
+		],
+		"persistent": false
+	},
+
 	"content_scripts": [
 		{
 			"matches": [ "https://dragcave.net/locations/*" ],
-			"js": [ "js/jquery.min.js", "js/location.js", "js/rarity.js", "js/content.js" ]
+			"js": [ "js/content_locations.js" ]
 		},
 		{
 			"matches": [ "https://dragcave.net/abandoned" ],
