@@ -1,12 +1,17 @@
 let eggs = $(".spr").parent();
 let eggImg;
+// ※init
+try {
+	// show egg name code
+	eggs.hover(showCode, hideCode);
+	eggs.hover(showLineage, function(){});
+	// highlight();
+	showLineage();
+} catch(e) {
+	console.error(e);
+}
 
-// show egg name code
-eggs.hover(showCode, hideCode);
-eggs.hover(showLineage, function(){});
-// highlight();
-showLineage();
-
+// ※functions
 function showCode() {
   let code = this.href.split('/')[4];
 	eggImg = this.firstChild;

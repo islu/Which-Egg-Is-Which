@@ -1,6 +1,4 @@
-// Collect collectibles automatically
-// ( dragoncave.net/trickortreat )
-
+// ※init
 window.onload = function () {
 	clickHalloweenCollections();
 	clickEasterCollections();
@@ -10,6 +8,8 @@ setTimeout(function () {
 	window.location.reload();
 }, 1000 * 60 * 5) // Refresh every 5 minutes
 
+// ※functions
+// Collect collectibles automatically.
 function clickHalloweenCollections() {
 	let img = document.getElementsByTagName('img');
 	for (let i = 0; i < img.length; i++) {
