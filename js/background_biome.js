@@ -86,6 +86,8 @@ const alpine = [
 	'This egg shakes slightly when taken out of the light.$e214.png',
 	'It feels like this egg knew you were coming.$e222.png',
 	'This striped egg has a rough, ridged texture.$e224.png',
+	'This egg emanates a peculiar smell.$e226.png',
+	'This tiny egg flashes in the sunlight.$e227.png',
 ];
 const coast = [
 	'This drab egg rests far from the water’s edge.$e1.png',
@@ -160,6 +162,7 @@ const coast = [
 	'Something about this egg seems to lure you in.$e215.png',
 	'This striped egg is surprisingly heavy.$e217.png',
 	'It feels like this egg knew you were coming.$e222.png',
+	'This tiny egg flashes in the sunlight.$e227.png',
 ];
 const desert = [
 	'This tiny egg is rather light.$e2.png',
@@ -227,6 +230,7 @@ const desert = [
 	'This shiny grey egg smells of burnt metal.$e218.png',
 	'This egg has a winding pattern on it.$e223.png',
 	'This striped egg has a rough, ridged texture.$e224.png',
+	'This tiny egg flashes in the sunlight.$e227.png',
 ];
 const forest = [
 	'This tiny egg is rather light.$e2.png',
@@ -316,6 +320,8 @@ const forest = [
 	'This plain blue egg almost seems to float.$e212.png',
 	'This egg shakes slightly when taken out of the light.$e214.png',
 	'It feels like this egg knew you were coming.$e222.png',
+	'This egg emanates a peculiar smell.$e226.png',
+	'This tiny egg flashes in the sunlight.$e227.png',
 ];
 const jungle = [
 	'This tiny egg is rather light.$e2.png',
@@ -402,6 +408,8 @@ const jungle = [
 	'This shiny egg smells faintly like flowers.$e220.png',
 	'It feels like this egg knew you were coming.$e222.png',
 	'This egg has a winding pattern on it.$e223.png',
+	'This egg emanates a peculiar smell.$e226.png',
+	'This tiny egg flashes in the sunlight.$e227.png',
 ];
 const volcano = [
 	'This tiny egg is rather light.$e2.png',
@@ -473,6 +481,7 @@ const volcano = [
 	'This shiny grey egg smells of burnt metal.$e218.png',
 	'This striped egg is surprisingly heavy.$e221.png',
 	'Tough ridges line the surface of this rough, mottled egg.$e225.png',
+	'This tiny egg flashes in the sunlight.$e227.png',
 ];
 const holiday = [
 	// Valentine's Day
