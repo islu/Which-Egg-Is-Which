@@ -1,29 +1,21 @@
 // ※init
-window.onload = function () {
-	clickHalloweenCollections();
-	clickEasterCollections();
-}
-
-setTimeout(function () {
-	window.location.reload();
-}, 1000 * 60 * 5) // Refresh every 5 minutes
+AutoCollectCollectibles();
 
 // ※functions
 // Collect collectibles automatically.
-function clickHalloweenCollections() {
-	let img = document.getElementsByTagName('img');
-	for (let i = 0; i < img.length; i++) {
-		if (img[i]['alt'] == 'Trick, or treat') { 
-			img[i].click();
-		} // Happy Halloween ~ 
-	}
+function AutoCollectCollectibles(refreshMinute = 5) {
+    const c = [...document.getElementsByTagName('img')];
+    
+    for (let i = 0; i < c.length; i++) {
+        if (isCollectible(c[i].alt)) {
+            c[i].click();
+            break;
+        }
+    }
+
+    setTimeout(() => {window.location.reload();}, 1000 * 60 * refreshMinute)
 }
 
-function clickEasterCollections() {
-	let img = document.getElementsByTagName('img');
-	for (let i = 0; i < img.length; i++) {
-		if (img[i]['alt'] == 'Festival of Eggs egg') { 
-			img[i].click();
-		}
-	}
+function isCollectible(s) {
+    return s === 'Trick, or treat' || s === 'Festival of Eggs egg';
 }
