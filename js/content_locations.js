@@ -4,7 +4,7 @@ ShowOriginalEggs();
 // ※functions
 // Replace the hidden egg with the original one.
 function ShowOriginalEggs() {
-    if(document.querySelector('.eggs') === null) {
+    if (document.querySelector('.eggs') === null) {
         return;
     }
     const eggs = document.querySelector('.eggs').children;
