@@ -1,8 +1,8 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Which Egg Is Which",
-    "description": "Replace the hidden egg with the original one.",
-    "version": "1.12",
+    "description": "A chrome extension for Dragon Cave 🐲",
+    "version": "3.0.0",
 
     "icons":
     {
@@ -13,7 +13,9 @@
 
     "permissions": [ "tabs", "storage" ],
 
-    "browser_action":
+    "host_permissions": [ "https://github.com/" ],
+
+    "action":
     {
         "browser_style": true,
         "default_title": "Info",
@@ -21,12 +23,9 @@
     },
 
     "background":
-    {  
-        "scripts": [
-            "js/background_biome.js",
-            "js/background_handle.js"
-        ],
-        "persistent": false
+    {
+        "service_worker": "js/background_handle.js",
+        "type": "module"
     },
 
     "content_scripts": [
@@ -36,7 +35,7 @@
         },
         {
             "matches": [ "https://dragcave.net/abandoned" ],
-            "js": [ "js/jquery.min.js", "js/content_abandoned.js" ]
+            "js": [ "js/content_abandoned.js" ]
         },
         {
             "matches": [ "https://dragcave.net/trickortreat*", "https://dragcave.net/easter*" ],
@@ -45,5 +44,10 @@
         }
     ],
 
-    "web_accessible_resources": [ "images/*.png", "images/*.gif" ]
+    "web_accessible_resources": [
+        {
+          "resources": [ "images/*.png", "images/*.gif" ],
+          "matches": [ "<all_urls>" ]
+        }
+    ]
 }

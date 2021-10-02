@@ -7,21 +7,26 @@ function ShowOriginalEggs() {
     if (document.querySelector('.eggs') === null) {
         return;
     }
-    const eggs = document.querySelector('.eggs').children;
+    const eggs = [...document.querySelector('.eggs').children];
 
-    for (let c = 0; c < eggs.length; c++) {
-        const d = eggs[c].getElementsByTagName('span')[0];
-        const i = eggs[c].getElementsByTagName('img')[0];
+    eggs.forEach(e => {
+        const d = e.getElementsByTagName('span')[0];
+        const i = e.getElementsByTagName('img')[0];
 
         chrome.runtime.sendMessage(
             {method: 'GetEggByDescription', params: [d.innerText]},
-            response => {handleGetEggByDescriptionResponse(response, i);}
+            rs => {handleGetEggByDescriptionResponse(rs, i);}
         );
-    }
+    });
 }
 
 function handleGetEggByDescriptionResponse(response, ...params) {
+    if (response.error !== '') {
+        console.log(response);
+        return;
+    }
     if (response.results[0] === null) {
+        console.log('no match');
         return;
     }
     params[0].src = response.results[0];

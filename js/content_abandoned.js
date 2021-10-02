@@ -1,46 +1,53 @@
-let eggs = $(".spr").parent();
-let eggImg;
 // ※init
-try {
-	// show egg name code
-	eggs.hover(showCode, hideCode);
-	eggs.hover(showLineage, function(){});
-	// highlight();
-	showLineage();
-} catch(e) {
-	console.error(e);
-}
+let eggs = [...document.querySelectorAll('.spr')].map(e => e.parentNode);
+// e.g.
+// <a href="abandoned/{egg_id}/...">
+//    <img class="spr" alt="egg" src="...">
+// </a>
+let textEggId = createTextElement('<egg_id>');
+
+eggs.forEach(e => {
+    e.addEventListener('mouseenter', ShowEggId);
+    e.addEventListener('mouseenter', ShowEggLineage);
+    e.addEventListener('mouseleave', HideEggId);
+});
 
 // ※functions
-function showCode() {
-  let code = this.href.split('/')[4];
-	eggImg = this.firstChild;
-	this.text = code;
+function ShowEggId() {
+    textEggId.innerText = parseEggId(this.href);
+    this.appendChild(textEggId);
 }
-function hideCode() {
-	this.innerHTML = '';
-	this.appendChild(eggImg);
+
+function ShowEggLineage() {
+    const id = parseEggId(this.href);
+    document.querySelector('.adsbygoogle').innerHTML =
+        `<iframe
+            src="https://dragcave.net/lineage/${id}" 
+            display="block" width="100%" height="100%"
+            frameborder="0"
+            scrolling="yes""
+        >
+        </iframe>'`;
 }
-function highlight() {
-	for (let i = 0; i < eggs.length; i++) {
-		let code = eggs[i].href.split('/')[4];
-		
-		if (code.match(/\d{4,}/g) != null) {
-			eggs[i].style = "background-color: yellow"
-		}
-		if (code.match(/[a-z]{4,}/g) != null) {
-			eggs[i].style = "background-color: yellow"
-		}
-		if (code.match(/[A-Z]{4,}/g) != null) {
-			eggs[i].style = "background-color: yellow"
-		}
-	}
+
+function HideEggId() {
+    try {
+        this.removeChild(textEggId);
+    } catch {
+    }
 }
-function showLineage() {
-	//https://dragcave.net/lineage/:code
-	let code = this.href.split('/')[4];
-	$('.adsbygoogle').html(function() {
-		return '<iframe src="https://dragcave.net/lineage/'+code+'" display="block" width="100%" height="100%" frameborder="0" scrolling="yes""></iframe>'
-	})
-	//$('.online').append('<iframe src="https://dragcave.net/lineage/'+code+'" display="block" width="100%" height="400px" frameborder="0" scrolling="yes""></iframe>');
+
+function parseEggId(url) {
+    let u = new URL(url)
+    return u.pathname.split('/')[2];
+}
+
+function createTextElement(value = '') {
+    let e;
+    e = document.createElement('span');
+    e.innerText = value;
+    e.style.relative = 'absolute';
+    e.style.marginLeft = '-33px';
+    e.style.backgroundColor = 'yellow';
+    return e;
 }
