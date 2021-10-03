@@ -15,13 +15,6 @@
 
     "host_permissions": [ "https://github.com/" ],
 
-    "action":
-    {
-        "browser_style": true,
-        "default_title": "Info",
-        "default_popup": "view/event.html"
-    },
-
     "background":
     {
         "service_worker": "js/background_handle.js",
