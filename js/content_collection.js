@@ -1,5 +1,5 @@
 // ※init
-AutoCollectCollectibles();
+setTimeout(() => {AutoCollectCollectibles(5);}, 100);
 
 // ※functions
 // Collect collectibles automatically.

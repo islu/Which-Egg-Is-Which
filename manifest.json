@@ -32,7 +32,6 @@
         },
         {
             "matches": [ "https://dragcave.net/trickortreat*", "https://dragcave.net/easter*" ],
-            "run_at": "document_idle",
             "js": [ "js/content_collection.js" ]
         }
     ],
