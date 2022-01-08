@@ -14,12 +14,19 @@ eggs.forEach(e => {
 
 // ※functions
 function ShowEggId() {
-    textEggId.innerText = parseEggId(this.href);
+    const id = parseEggId(this.href);
+    if (id === undefined) {
+        return;
+    }
+    textEggId.innerText = id;
     this.appendChild(textEggId);
 }
 
 function ShowEggLineage() {
     const id = parseEggId(this.href);
+    if (id === undefined) {
+        return;
+    }
     document.querySelector('.adsbygoogle').innerHTML =
         `<iframe
             src="https://dragcave.net/lineage/${id}" 

@@ -10,26 +10,24 @@ function ShowOriginalEggs() {
     const eggs = [...document.querySelector('.eggs').children];
 
     eggs.forEach(e => {
-        const d = e.getElementsByTagName('span')[0];
-        const i = e.getElementsByTagName('img')[0];
+        let d = e.getElementsByTagName('span')[0];
+        let i = e.getElementsByTagName('img')[0];
 
         chrome.runtime.sendMessage(
             {method: 'GetEggByDescription', params: [d.innerText]},
-            rs => {handleGetEggByDescriptionResponse(rs, i);}
+            rs => {handleGetEggByDescriptionResponse(rs, i, d);}
         );
     });
 }
 
-function handleGetEggByDescriptionResponse(response, ...params) {
+function handleGetEggByDescriptionResponse(response, imgElement, spanElement) {
     if (response.error !== '') {
         console.log(response);
         return;
     }
-    if (response.results[0] === null) {
-        console.log('no match');
-        return;
+    if (response.result.src !== '') {
+        imgElement.src = response.result.src;
+        imgElement.removeAttribute('width');
+        imgElement.removeAttribute('height');
     }
-    params[0].src = response.results[0];
-    params[0].removeAttribute('width');
-    params[0].removeAttribute('height');
 }
