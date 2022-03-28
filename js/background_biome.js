@@ -88,6 +88,7 @@ const alpine = [
     'This striped egg has a rough, ridged texture.$e224.png',
     'This egg emanates a peculiar smell.$e226.png',
     'This tiny egg flashes in the sunlight.$e227.png',
+    'This tiny white egg shakes sometimes.$e228.png',
 ];
 const coast = [
     'This drab egg rests far from the water’s edge.$e1.png',
@@ -163,6 +164,7 @@ const coast = [
     'This striped egg is surprisingly heavy.$e217.png',
     'It feels like this egg knew you were coming.$e222.png',
     'This tiny egg flashes in the sunlight.$e227.png',
+    'This tiny white egg shakes sometimes.$e228.png',
 ];
 const desert = [
     'This tiny egg is rather light.$e2.png',
@@ -231,6 +233,7 @@ const desert = [
     'This egg has a winding pattern on it.$e223.png',
     'This striped egg has a rough, ridged texture.$e224.png',
     'This tiny egg flashes in the sunlight.$e227.png',
+    'This tiny white egg shakes sometimes.$e228.png',
 ];
 const forest = [
     'This tiny egg is rather light.$e2.png',
@@ -322,6 +325,8 @@ const forest = [
     'It feels like this egg knew you were coming.$e222.png',
     'This egg emanates a peculiar smell.$e226.png',
     'This tiny egg flashes in the sunlight.$e227.png',
+    'This tiny white egg shakes sometimes.$e228.png',
+    'This egg is surrounded by beautiful flowers.$e229.png',
 ];
 const jungle = [
     'This tiny egg is rather light.$e2.png',
@@ -410,6 +415,7 @@ const jungle = [
     'This egg has a winding pattern on it.$e223.png',
     'This egg emanates a peculiar smell.$e226.png',
     'This tiny egg flashes in the sunlight.$e227.png',
+    'This tiny white egg shakes sometimes.$e228.png',
 ];
 const volcano = [
     'This tiny egg is rather light.$e2.png',
@@ -482,6 +488,7 @@ const volcano = [
     'This striped egg is surprisingly heavy.$e221.png',
     'Tough ridges line the surface of this rough, mottled egg.$e225.png',
     'This tiny egg flashes in the sunlight.$e227.png',
+    'This tiny white egg shakes sometimes.$e228.png',
 ];
 const holiday = [
     // Valentine's Day
