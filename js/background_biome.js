@@ -165,6 +165,7 @@ const coast = [
     'It feels like this egg knew you were coming.$e222.png',
     'This tiny egg flashes in the sunlight.$e227.png',
     'This tiny white egg shakes sometimes.$e228.png',
+    'This scaly egg seems to disappear in the depths.$e230.png',
 ];
 const desert = [
     'This tiny egg is rather light.$e2.png',
@@ -327,6 +328,7 @@ const forest = [
     'This tiny egg flashes in the sunlight.$e227.png',
     'This tiny white egg shakes sometimes.$e228.png',
     'This egg is surrounded by beautiful flowers.$e229.png',
+    'This egg has spots that glow brightly when touched.$e231.png',
 ];
 const jungle = [
     'This tiny egg is rather light.$e2.png',
@@ -416,6 +418,7 @@ const jungle = [
     'This egg emanates a peculiar smell.$e226.png',
     'This tiny egg flashes in the sunlight.$e227.png',
     'This tiny white egg shakes sometimes.$e228.png',
+    'This egg has spots that glow brightly when touched.$e231.png',
 ];
 const volcano = [
     'This tiny egg is rather light.$e2.png',
