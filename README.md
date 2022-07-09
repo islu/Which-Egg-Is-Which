@@ -8,6 +8,8 @@
 
 ### How To Use
 To load chrome extension in Chrome:
+
+0. **`Download Zip`** and unzip. **OR** Use `git clone`.
 1. Open up `chrome://extensions/` in browser.
 2. Click **`Developer mode`** in top right.
 3. Click **`Load unpacked extension…`** and select the directory.
