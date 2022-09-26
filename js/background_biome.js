@@ -92,6 +92,7 @@ const alpine = [
     'Cold lightning arcs out from this egg’s shell if you try to touch it.$dc_16th_birthday_1.png',
     'This tiny blue egg gives you a slight shock when you touch it.$e_202207_1.png',
     'This scaled egg is surrounded by the others.$e_202207_6.png',
+    'Two thin stripes crisscross the shell of this egg.$e_202209_2.png',
 ];
 const coast = [
     'This drab egg rests far from the water’s edge.$e1.png',
@@ -173,6 +174,8 @@ const coast = [
     'This tiny blue egg gives you a slight shock when you touch it.$e_202207_1.png',
     'This scaled egg is surrounded by the others.$e_202207_2.png',
     'A single blue spot marks this egg.$e_202208_1.png',
+    'This little egg blends in to the sand.$e_202209_1.png',
+    'Two thin stripes crisscross the shell of this egg.$e_202209_2.png',
 ];
 const desert = [
     'This tiny egg is rather light.$e2.png',
@@ -245,6 +248,7 @@ const desert = [
     'Grabbing this tiny egg makes you feel reckless.$dc_16th_birthday_3.png',
     'This tiny blue egg gives you a slight shock when you touch it.$e_202207_1.png',
     'This scaled egg is surrounded by the others.$e_202207_3.png',
+    'Two thin stripes crisscross the shell of this egg.$e_202209_2.png',
 ];
 const forest = [
     'This tiny egg is rather light.$e2.png',
@@ -343,6 +347,7 @@ const forest = [
     'This tiny blue egg gives you a slight shock when you touch it.$e_202207_1.png',
     'This scaled egg is surrounded by the others.$e_202207_4.png',
     'A single blue spot marks this egg.$e_202208_1.png',
+    'Two thin stripes crisscross the shell of this egg.$e_202209_2.png',
 ];
 const jungle = [
     'This tiny egg is rather light.$e2.png',
@@ -437,6 +442,7 @@ const jungle = [
     'This tiny blue egg gives you a slight shock when you touch it.$e_202207_1.png',
     'This scaled egg is surrounded by the others.$e_202207_5.png',
     'A single blue spot marks this egg.$e_202208_1.png',
+    'Two thin stripes crisscross the shell of this egg.$e_202209_2.png',
 ];
 const volcano = [
     'This tiny egg is rather light.$e2.png',
@@ -513,6 +519,7 @@ const volcano = [
     'When you tap on this shell, the hatchling inside taps back.$dc_16th_birthday_6.png',
     'This tiny blue egg gives you a slight shock when you touch it.$e_202207_1.png',
     'This scaled egg is surrounded by the others.$e_202207_7.png',
+    'Two thin stripes crisscross the shell of this egg.$e_202209_2.png',
 ];
 const holiday = [
     // Valentine's Day
