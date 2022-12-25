@@ -570,6 +570,7 @@ const holiday = [
     'This egg emanates a gentle chime when met with the winter breeze.$christmas2019.png',
     'Colorful light twinkles within this frozen egg.$christmas2020.png',
     'This warm brown egg smells faintly of spices.$christmas2021.png',
+    'A warm, comforting light emanates from within this egg.$christmas2022.png'
 ];
 
 const biomes = {
