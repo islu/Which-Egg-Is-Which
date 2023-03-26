@@ -23,7 +23,7 @@ Images source from: https://dragcave.fandom.com/wiki/Dragon_Cave_Wiki
 
 ## License
 ```
-Copyright (c) 2019-2022 islu. 
+Copyright (c) 2019-2023 islu.
 
 Use MIT License.
 ```
