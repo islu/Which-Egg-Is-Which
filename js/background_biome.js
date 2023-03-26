@@ -443,6 +443,7 @@ const jungle = [
     'This scaled egg is surrounded by the others.$e_202207_5.png',
     'A single blue spot marks this egg.$e_202208_1.png',
     'Two thin stripes crisscross the shell of this egg.$e_202209_2.png',
+    'This dull mottled egg blends into the surrounding algae.$e_202303_1.png',
 ];
 const volcano = [
     'This tiny egg is rather light.$e2.png',
