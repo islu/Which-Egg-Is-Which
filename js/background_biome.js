@@ -175,7 +175,7 @@ const coast = [
     'This tiny blue egg gives you a slight shock when you touch it.$e_202207_1.png',
     'This scaled egg is surrounded by the others.$e_202207_2.png',
     'A single blue spot marks this egg.$e_202208_1.png',
-    'This little egg blends in to the sand.$e_202209_1.png',
+    'This little egg blends into the sand.$e_202209_1.png',
     'Two thin stripes crisscross the shell of this egg.$e_202209_2.png',
     'This egg glows with the light of the moon.$e_202304_1_1.png',
 ];
