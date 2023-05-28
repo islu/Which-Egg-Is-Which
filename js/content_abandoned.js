@@ -29,7 +29,7 @@ function ShowEggLineage() {
     }
     document.querySelector('.adsbygoogle').innerHTML =
         `<iframe
-            src="https://dragcave.net/lineage/${id}" 
+            src="https://dragcave.net/lineage/${id}"
             display="block" width="100%" height="100%"
             frameborder="0"
             scrolling="yes""

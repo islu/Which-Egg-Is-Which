@@ -5,7 +5,7 @@ setTimeout(() => {AutoCollectCollectibles(5);}, 5000);
 // Collect collectibles automatically.
 function AutoCollectCollectibles(refreshMinute = 5) {
     const c = [...document.getElementsByTagName('img')];
-    
+
     for (let i = 0; i < c.length; i++) {
         if (isCollectible(c[i].alt)) {
             c[i].click();
