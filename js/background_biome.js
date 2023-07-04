@@ -97,6 +97,7 @@ const alpine = [
     'Crystals are growing around the shell of this little egg.$dc_17th_birthday_1.png',
     'This egg glows vibrantly in the dark.$dc_17th_birthday_2.png',
     'A red stone is embedded in this egg’s cold shell.$dc_17th_birthday_3.png',
+    'This smooth egg has dark markings.$e_202306_1_3.gif',
 ];
 const coast = [
     'This drab egg rests far from the water’s edge.$e1.png',
@@ -183,6 +184,7 @@ const coast = [
     'This egg glows with the light of the moon.$e_202304_1_1.png',
     'A red stone is embedded in this egg’s cold shell.$dc_17th_birthday_3.png',
     'This egg has washed up on the beach.$dc_17th_birthday_4.png',
+    'This smooth egg has dark markings.$e_202306_1_3.gif',
 ];
 const desert = [
     'This tiny egg is rather light.$e2.png',
@@ -259,6 +261,7 @@ const desert = [
     'This egg glows with the light of the moon.$e_202304_1_1.png',
     'A red stone is embedded in this egg’s cold shell.$dc_17th_birthday_3.png',
     'A low hum emanates from this rough egg.$dc_17th_birthday_5.png',
+    'This smooth egg has dark markings.$e_202306_1_3.gif',
 ];
 const forest = [
     'This tiny egg is rather light.$e2.png',
@@ -361,6 +364,7 @@ const forest = [
     'This egg glows with the light of the moon.$e_202304_1_1.png',
     'A red stone is embedded in this egg’s cold shell.$dc_17th_birthday_3.png',
     'This smooth egg has a bright blue stripe on it.$dc_17th_birthday_6.png',
+    'This smooth egg has dark markings.$e_202306_1_3.gif',
 ];
 const jungle = [
     'This tiny egg is rather light.$e2.png',
@@ -459,6 +463,7 @@ const jungle = [
     'This dull mottled egg blends into the surrounding algae.$e_202303_1.png',
     'Shadows flicker wildly around this diminutive egg.$e_202304_2.png',
     'A red stone is embedded in this egg’s cold shell.$dc_17th_birthday_3.png',
+    'This smooth egg has dark markings.$e_202306_1_3.gif',
 ];
 const volcano = [
     'This tiny egg is rather light.$e2.png',
@@ -539,6 +544,7 @@ const volcano = [
     'This egg glows with the light of the moon.$e_202304_1_1.png',
     'A red stone is embedded in this egg’s cold shell.$dc_17th_birthday_3.png',
     'This dark egg has bright flecks that almost seem to move as they catch the light.$dc_17th_birthday_7.png',
+    'This smooth egg has dark markings.$e_202306_1_3.gif',
 ];
 const holiday = [
     // Valentine's Day
