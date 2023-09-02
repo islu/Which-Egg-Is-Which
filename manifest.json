@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "Which Egg Is Which",
-    "description": "A chrome extension for Dragon Cave 🐲",
-    "version": "3.1.0",
+    "description": "A chrome extension for Dragon Cave",
+    "version": "3.2.0",
 
     "icons":
     {
@@ -12,8 +12,6 @@
     },
 
     "permissions": [ "tabs", "storage" ],
-
-    "host_permissions": [ "https://github.com/" ],
 
     "background":
     {
