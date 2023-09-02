@@ -6,7 +6,7 @@
 - Replace the hidden egg with the original one.
 - Hover on abandoned egg can show name code.
 
-### How To Use
+## How To Use
 To load chrome extension in Chrome:
 
 0. **`Download Zip`** and unzip. **OR** Use `git clone`.
