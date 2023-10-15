@@ -1,9 +1,9 @@
 import biomes from './background_biome.js'
 
 // ※handles
-chrome.runtime.onMessage.addListener(handleReciveMessage);
+chrome.runtime.onMessage.addListener(handleReceiveMessage);
 
-function handleReciveMessage(message, sender, sendResponse) {
+function handleReceiveMessage(message, sender, sendResponse) {
     let response = {error: '', result: {}}
 
     try {
