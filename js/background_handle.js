@@ -9,7 +9,9 @@ function handleReceiveMessage(message, sender, sendResponse) {
     try {
         switch (message.method) {
             case 'GetEggByDescription':
-                response.result = weiw.GetEggByDescription(sender.url[sender.url.length - 1], ...message.params);
+                let url = new URL(sender.url);
+                let pathname = url.pathname.split('/');
+                response.result = weiw.GetEggByDescription(pathname[2][0], ...message.params);
                 break;
             default:
                 response.error = 'method no implement';
