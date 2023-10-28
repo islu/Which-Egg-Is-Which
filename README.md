@@ -5,11 +5,11 @@
 ### Features
 - Replace the hidden egg with the original one.
 - Hover on abandoned egg can show name code.
-- Automatically click on collectibles, and refresh every five minutes.
-    <details>
-    <summary> Details </summary>
-
-    Staying on this page is sufficient to trigger it.
+- <details>
+    <summary> Automatically click on collectibles, and refresh every five minutes. </summary>
+    <br>
+    (1) Staying on this page is sufficient to trigger it.
+    
     ![](/docs/trickortreat.png)
     </details>
 
