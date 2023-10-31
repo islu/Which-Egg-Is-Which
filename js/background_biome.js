@@ -598,6 +598,7 @@ const holiday = [
     'Dead leaves obscure this egg’s scratched shell.$halloween2020.png',
     'Your eyes struggle to completely focus on the light coming through this cloudy egg.$halloween2021.png',
     'This cool, weathered egg is a heavy burden to bear.$halloween2022.png',
+    'Soft bioluminescence shifts over the surface of this dark egg.$halloween2023.png',
     // Christmas
     'This egg has a holly leaf stuck to it.$christmas2007.png',
     'This egg is covered with bright, festive stripes.$christmas2008.png',
