@@ -78,7 +78,7 @@ const alpine = [
     'The brilliant blue spots on this egg stand out.$e197.png',
     'This tiny egg resembles a seed.$e198.png',
     'This shimmering egg was hidden far from the others.$e199.png',
-    'This soft egg was carefully nestled in feathers and snow.$e201.png',
+    'This soft egg is carefully nestled in feathers and snow.$e201.png',
     'Mana flows like a current through this glassy egg.$e208.png',
     'Starlight shimmers across this egg’s iridescent shell.$e209.png',
     'This egg reminds you of the night sky.$e211.png',
