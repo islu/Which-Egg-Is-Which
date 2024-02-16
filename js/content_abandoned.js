@@ -27,12 +27,12 @@ function ShowEggLineage() {
     if (id === undefined) {
         return;
     }
-    document.querySelector('.adsbygoogle').innerHTML =
+    document.querySelector('._n_5').innerHTML =
         `<iframe
             src="https://dragcave.net/lineage/${id}"
             display="block" width="100%" height="100%"
             frameborder="0"
-            scrolling="yes""
+            scrolling="yes"
         >
         </iframe>'`;
 }
