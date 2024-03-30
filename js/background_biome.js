@@ -101,6 +101,7 @@ const alpine = [
     'Delicate petals envelop this egg.$e_202307_1_2.png',
     'Something about this heavy egg unnerves you.$e_202308_2.png',
     'It is difficult to discern this egg from its gloomy surroundings.$e_202310_2.png',
+    'This speckled egg has deep blue spots.$e_202403_1.png',
 ];
 const coast = [
     'This drab egg rests far from the water’s edge.$e1.png',
@@ -271,6 +272,7 @@ const desert = [
     'Delicate petals envelop this egg.$e_202307_1_1.png',
     'This egg is well-camouflaged.$e_202308_1.png',
     'Something about this heavy egg unnerves you.$e_202308_2.png',
+    'This speckled egg has deep blue spots.$e_202403_1.png',
 ];
 const forest = [
     'This tiny egg is rather light.$e2.png',
@@ -565,6 +567,7 @@ const volcano = [
     'Delicate petals envelop this egg.$e_202307_1_1.png',
     'Something about this heavy egg unnerves you.$e_202308_2.png',
     'It is difficult to discern this egg from its gloomy surroundings.$e_202310_2.png',
+    'This egg looks like cooled lava.$e_202403_2.png',
 ];
 const holiday = [
     // Valentine's Day
