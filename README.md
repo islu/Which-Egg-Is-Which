@@ -1,5 +1,8 @@
 # Which-Egg-Is-Which
 ## Overview
+
+A chrome extension for [Dragon Cave](https://dragcave.net/)
+
 ![](/docs/demo.gif)
 
 ### Features
@@ -11,6 +14,10 @@
     (1) Staying on this page is sufficient to trigger it.
 
     ![](/docs/trickortreat.png)
+
+    (2) Staying on this page is sufficient to trigger it.
+
+    ![](/docs/festivalofeggs.png)
     </details>
 
 ## How To Use
