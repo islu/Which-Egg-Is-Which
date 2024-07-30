@@ -105,6 +105,7 @@ const alpine = [
     'This egg seems lonely sitting by itself.$e_202404_1.png',
     'This egg is covered in black and white stripes.$dc_18th_birthday_1.png',
     'This dark egg has a delicate shell that smells faintly of pine.$e_202406_1.png',
+    'This egg’s glittering shell sometimes gets lost in fog.$e_202407_2.png',
 ];
 const coast = [
     'This drab egg rests far from the water’s edge.$e1.png',
@@ -280,6 +281,7 @@ const desert = [
     'Something about this heavy egg unnerves you.$e_202308_2.png',
     'This speckled egg has deep blue spots.$e_202403_1.png',
     'This egg seems lonely sitting by itself.$e_202404_1.png',
+    'This egg’s glittering shell sometimes gets lost in fog.$e_202407_2.png',
 ];
 const forest = [
     'This tiny egg is rather light.$e2.png',
@@ -390,6 +392,7 @@ const forest = [
     'This egg seems lonely sitting by itself.$e_202404_1.png',
     'A serene calm washes over you as you approach this navy egg.$dc_18th_birthday_4.png',
     'This dark egg has a delicate shell that smells faintly of pine.$e_202406_1.png',
+    'This egg is covered in soft, downy feathers.$e_202407_1.png',
 ];
 const jungle = [
     'This tiny egg is rather light.$e2.png',
