@@ -106,6 +106,7 @@ const alpine = [
     'This egg is covered in black and white stripes.$dc_18th_birthday_1.png',
     'This dark egg has a delicate shell that smells faintly of pine.$e_202406_1.png',
     'This egg’s glittering shell sometimes gets lost in fog.$e_202407_2.png',
+    'This egg was left in an ornate nest of fur and grass.$e_202408_1.png',
 ];
 const coast = [
     'This drab egg rests far from the water’s edge.$e1.png',
