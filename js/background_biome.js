@@ -200,6 +200,7 @@ const coast = [
     'This egg seems lonely sitting by itself.$e_202404_1.png',
     'This beautifully patterned egg was buried close to shore.$dc_18th_birthday_2.png',
     'This heavy egg has a distinct scorched smell.$e_202406_3.png',
+    'Three bold red stripes cut across this egg’s shell.$e_202409_1.png',
 ];
 const desert = [
     'This tiny egg is rather light.$e2.png',
@@ -394,6 +395,7 @@ const forest = [
     'A serene calm washes over you as you approach this navy egg.$dc_18th_birthday_4.png',
     'This dark egg has a delicate shell that smells faintly of pine.$e_202406_1.png',
     'This egg is covered in soft, downy feathers.$e_202407_1.png',
+    'Three bold red stripes cut across this egg’s shell.$e_202409_1.png',
 ];
 const jungle = [
     'This tiny egg is rather light.$e2.png',
@@ -499,6 +501,7 @@ const jungle = [
     'It is difficult to discern this egg from its gloomy surroundings.$e_202310_2.png',
     'This egg seems lonely sitting by itself.$e_202404_1.png',
     'This partially scaled egg looks like it was placed with great care.$dc_18th_birthday_3.png',
+    'This egg looks like it doesn’t belong; it is glossy and covered with white spots.$e_202409_2.png',
 ];
 const volcano = [
     'This tiny egg is rather light.$e2.png',
