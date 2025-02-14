@@ -609,6 +609,7 @@ const holiday = [
     'This egg smells pleasantly floral, maybe fruity.$valentine2022.png',
     'Colorful swirls decorate the surface of this glossy egg.$valentine2023.png',
     'Holding this warm egg rekindles your spirit.$valentine2024.png',
+    'This egg emits an enchanting glow.$valentine2025.png',
     // Halloween
     'This egg is stone cold and smells rotten.$halloween2008.png',
     'This egg smells like the autumn harvest.$halloween2009.png',
