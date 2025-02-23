@@ -396,6 +396,7 @@ const forest = [
     'This dark egg has a delicate shell that smells faintly of pine.$e_202406_1.png',
     'This egg is covered in soft, downy feathers.$e_202407_1.png',
     'Three bold red stripes cut across this egg’s shell.$e_202409_1.png',
+    'This egg’s glittering shell sometimes gets lost in fog.$e_202407_2.png',
 ];
 const jungle = [
     'This tiny egg is rather light.$e2.png',
