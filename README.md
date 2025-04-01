@@ -1,40 +1,44 @@
 # Which-Egg-Is-Which
+
 ## Overview
 
-A chrome extension for [Dragon Cave](https://dragcave.net/)
+A Chrome extension for [Dragon Cave](https://dragcave.net/).
 
-![](/docs/demo.gif)
+![Demo](/docs/demo.gif)
 
 ### Features
-- Replace the hidden egg with the original one.
-- Hover on abandoned egg can show name code.
+
+- Replace hidden eggs with their original versions.
+- Hovering over abandoned eggs displays their name codes.
 - <details>
-    <summary> Automatically click on collectibles, and refresh every five minutes. </summary>
-    <br>
-    (1) Staying on this page is sufficient to trigger it.
+    <summary>Automatically click on collectibles and refresh every five minutes.</summary>
 
-    ![](/docs/trickortreat.png)
+    1. Staying on this page is sufficient to trigger it:
+       ![Trick or Treat](/docs/trickortreat.png)
 
-    (2) Staying on this page is sufficient to trigger it.
+    2. Staying on this page is sufficient to trigger it:
+       ![Festival of Eggs](/docs/festivalofeggs.png)
 
-    ![](/docs/festivalofeggs.png)
-    </details>
+</details>
 
-## How To Use
-To load chrome extension in Chrome:
+## How to Use
 
-1. **`Download Zip`** and unzip. **OR** Use `git clone`.
-2. Open up `chrome://extensions/` in browser.
-3. Click **`Developer mode`** in top right.
-4. Click **`Load unpacked extension…`** and select the directory.
-5. If add/modify files in extension, back to this page and reload this extension.
+To load the Chrome extension in your browser:
 
-## Credit
-Images source from: https://dragcave.fandom.com/wiki/Dragon_Cave_Wiki
+1. **Download the ZIP file** and unzip it, **OR** use `git clone`.
+2. Open `chrome://extensions/` in your browser.
+3. Enable **Developer mode** in the top-right corner.
+4. Click **Load unpacked extension…** and select the directory.
+5. If you add or modify files in the extension, return to this page and reload the extension.
+
+## Credits
+
+Image sources: [Dragon Cave Wiki](https://dragcave.fandom.com/wiki/Dragon_Cave_Wiki)
 
 ## License
-```
+
+```txt
 Copyright (c) 2019-2025 islu.
 
-Use MIT License.
+Licensed under the MIT License.
 ```
