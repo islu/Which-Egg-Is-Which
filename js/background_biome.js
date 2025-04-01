@@ -201,6 +201,7 @@ const coast = [
     'This beautifully patterned egg was buried close to shore.$dc_18th_birthday_2.png',
     'This heavy egg has a distinct scorched smell.$e_202406_3.png',
     'Three bold red stripes cut across this egg’s shell.$e_202409_1.png',
+    'This egg washed ashore.$e_202503_2.png',
 ];
 const desert = [
     'This tiny egg is rather light.$e2.png',
