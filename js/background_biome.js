@@ -494,6 +494,7 @@ const jungle = [
     'A single blue spot marks this egg.$e_202208_1.png',
     'Two thin stripes crisscross the shell of this egg.$e_202209_2.png',
     'This dull mottled egg blends into the surrounding algae.$e_202303_1.png',
+    'This egg glows with the light of the moon.$e_202304_1_1.png',
     'Shadows flicker wildly around this diminutive egg.$e_202304_2.png',
     'A red stone is embedded in this egg’s cold shell.$dc_17th_birthday_3.png',
     'This smooth egg has dark markings.$e_202306_1_3.gif',
