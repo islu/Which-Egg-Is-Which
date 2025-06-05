@@ -107,6 +107,7 @@ const alpine = [
     'This dark egg has a delicate shell that smells faintly of pine.$e_202406_1.png',
     'This egg’s glittering shell sometimes gets lost in fog.$e_202407_2.png',
     'This egg was left in an ornate nest of fur and grass.$e_202408_1.png',
+    'This egg reverberates with a sound that is somehow haunting and soothing at once.$20250521_phantasma_egg.png',
 ];
 const coast = [
     'This drab egg rests far from the water’s edge.$e1.png',
@@ -203,6 +204,7 @@ const coast = [
     'Three bold red stripes cut across this egg’s shell.$e_202409_1.png',
     'This egg washed ashore.$e_202503_2.png',
     'This tiny egg is leathery and damp.$202504_trion_egg.png',
+    'It’s a tiny speckled egg.$20250521_impish_egg.png',
 ];
 const desert = [
     'This tiny egg is rather light.$e2.png',
@@ -287,6 +289,7 @@ const desert = [
     'This egg seems lonely sitting by itself.$e_202404_1.png',
     'This egg’s glittering shell sometimes gets lost in fog.$e_202407_2.png',
     'This egg has a rough, scaly surface.$202504_aardrake_egg.png',
+    'This surface of this egg is covered in pits and craters.$20250521_luna_egg.png',
 ];
 const forest = [
     'This tiny egg is rather light.$e2.png',
@@ -400,6 +403,7 @@ const forest = [
     'This egg is covered in soft, downy feathers.$e_202407_1.png',
     'Three bold red stripes cut across this egg’s shell.$e_202409_1.png',
     'This egg’s glittering shell sometimes gets lost in fog.$e_202407_2.png',
+    'Whenever you pick up this egg, you feel as though someone is watching you.$20250521_ouhou_egg.png',
 ];
 const jungle = [
     'This tiny egg is rather light.$e2.png',
@@ -508,6 +512,7 @@ const jungle = [
     'This partially scaled egg looks like it was placed with great care.$dc_18th_birthday_3.png',
     'This egg looks like it doesn’t belong; it is glossy and covered with white spots.$e_202409_2.png',
     'This tiny egg is leathery and damp.$202504_trion_egg.png',
+    'This tiny egg is cold and clammy.$20250521_gloomstalker_egg.png',
 ];
 const volcano = [
     'This tiny egg is rather light.$e2.png',
