@@ -55,7 +55,7 @@ function ShowEggLineage() {
             frameborder="0"
             scrolling="yes"
         >
-        </iframe>'`;
+        </iframe>`;
 }
 
 // Function to hide the egg ID when the mouse leaves an egg element.
