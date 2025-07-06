@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Which Egg Is Which",
     "description": "A Chrome extension for Dragon Cave",
-    "version": "3.4.15",
+    "version": "3.4.16",
 
     "icons":
     {
