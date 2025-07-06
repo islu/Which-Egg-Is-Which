@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Which Egg Is Which",
-    "description": "A chrome extension for Dragon Cave",
+    "description": "A Chrome extension for Dragon Cave",
     "version": "3.4.15",
 
     "icons":
@@ -15,22 +15,22 @@
 
     "background":
     {
-        "service_worker": "js/background_handle.js",
+        "service_worker": "src/background/handler.js",
         "type": "module"
     },
 
     "content_scripts": [
         {
             "matches": [ "https://dragcave.net/locations/*" ],
-            "js": [ "js/content_locations.js" ]
+            "js": [ "src/content/locations.js" ]
         },
         {
             "matches": [ "https://dragcave.net/abandoned" ],
-            "js": [ "js/content_abandoned.js" ]
+            "js": [ "src/content/abandoned.js" ]
         },
         {
             "matches": [ "https://dragcave.net/trickortreat*", "https://dragcave.net/easter*" ],
-            "js": [ "js/content_collection.js" ]
+            "js": [ "src/content/collection.js" ]
         }
     ],
 
