@@ -408,6 +408,7 @@ const forest = [
     'This egg’s glittering shell sometimes gets lost in fog.$e_202407_2.png',
     'Whenever you pick up this egg, you feel as though someone is watching you.$20250521_ouhou_egg.png',
     'This egg’s shell has thin bands of vivid color.$20250629_lunate_egg.png',
+    'This golden egg is shiny and warm.$20250831_miufu_egg.png',
 ];
 const jungle = [
     'This tiny egg is rather light.$e2.png',
@@ -518,6 +519,7 @@ const jungle = [
     'This tiny egg is leathery and damp.$202504_trion_egg.png',
     'This tiny egg is cold and clammy.$20250521_gloomstalker_egg.png',
     'This egg is carefully nestled away in soft grasses and feathers.$20250629_crested_egg.png',
+    'This golden egg is shiny and warm.$20250831_miufu_egg.png',
 ];
 const volcano = [
     'This tiny egg is rather light.$e2.png',
