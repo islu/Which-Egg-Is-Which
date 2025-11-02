@@ -109,6 +109,7 @@ const alpine = [
     'This egg was left in an ornate nest of fur and grass.$e_202408_1.png',
     'This egg reverberates with a sound that is somehow haunting and soothing at once.$20250521_phantasma_egg.png',
     'This egg’s shell has thin bands of vivid color.$20250629_lunate_egg.png',
+    'Moonlight ripples across this fragile egg’s shell.$20250928_moonblight_standard_egg.png',
 ];
 const coast = [
     'This drab egg rests far from the water’s edge.$e1.png',
@@ -409,6 +410,7 @@ const forest = [
     'Whenever you pick up this egg, you feel as though someone is watching you.$20250521_ouhou_egg.png',
     'This egg’s shell has thin bands of vivid color.$20250629_lunate_egg.png',
     'This golden egg is shiny and warm.$20250831_miufu_egg.png',
+    'Moonlight ripples across this fragile egg’s shell.$20250928_moonblight_standard_egg.png',
 ];
 const jungle = [
     'This tiny egg is rather light.$e2.png',
