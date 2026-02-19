@@ -34,11 +34,3 @@ To load the Chrome extension in your browser:
 ## Credits
 
 Image sources: [Dragon Cave Wiki](https://dragcave.fandom.com/wiki/Dragon_Cave_Wiki)
-
-## License
-
-```txt
-Copyright (c) 2019-2025 islu.
-
-Licensed under the MIT License.
-```
