@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Which Egg Is Which",
     "description": "A Chrome extension for Dragon Cave",
-    "version": "3.4.23",
+    "version": "3.4.24",
 
     "icons":
     {
@@ -29,7 +29,7 @@
             "js": [ "src/content/abandoned.js" ]
         },
         {
-            "matches": [ "https://dragcave.net/trickortreat*", "https://dragcave.net/easter*" ],
+            "matches": [ "https://dragcave.net/trickortreat*", "https://dragcave.net/festivalofeggs*" ],
             "js": [ "src/content/collection.js" ]
         }
     ],
