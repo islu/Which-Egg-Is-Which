@@ -209,6 +209,7 @@ const coast = [
     'This tiny egg is leathery and damp.$202504_trion_egg.png',
     'It’s a tiny speckled egg.$20250521_impish_egg.png',
     'Sparks dance beneath the translucent surface of this dark egg.$20250727_missinic_egg.png',
+    'This blood-red egg has a jelly-like texture.$20260426_haimatos_erythro_egg.png',
 ];
 const desert = [
     'This tiny egg is rather light.$e2.png',
@@ -414,6 +415,7 @@ const forest = [
     'This golden egg is shiny and warm.$20250831_miufu_egg.png',
     'Moonlight ripples across this fragile egg’s shell.$20250928_moonblight_standard_egg.png',
     'This creepy-looking egg looks distinctly like bone.$20260329_asio_egg.png',
+    'This blood-red egg has a jelly-like texture.$20260426_haimatos_erythro_egg.png',
 ];
 const jungle = [
     'This tiny egg is rather light.$e2.png',
@@ -614,6 +616,7 @@ const volcano = [
     'This iridescent egg radiates the warmth of the sun.$dc_18th_birthday_5.png',
     'This heavy egg has a distinct scorched smell.$e_202406_4.png',
     'This egg has a fiery pattern.$20250727_flameback_egg.png',
+    'This prismatic egg smolders slightly.$20260426_prismanic_egg.png',
 ];
 const holiday = [
     // Valentine's Day
