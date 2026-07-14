@@ -111,6 +111,9 @@ const alpine = [
     'This egg’s shell has thin bands of vivid color.$20250629_lunate_egg.png',
     'Moonlight ripples across this fragile egg’s shell.$20250928_moonblight_standard_egg.png',
     'This tiny egg glints in the moonlight.$20260329_papillune_blue_egg.png', // Coloration appears to be based on the time of day.
+    'This metal egg discharges bolts of electricity occasionally.$20260521_Stormherald_egg.webp',
+    'This glimmering egg emanates the ocean’s sounds.$20260521_Kymatumi_egg.webp',
+    'This egg sits atop a pile of smoldering ash.$20260521_Ignimbri_egg.webp',
 ];
 const coast = [
     'This drab egg rests far from the water’s edge.$e1.png',
@@ -210,6 +213,8 @@ const coast = [
     'It’s a tiny speckled egg.$20250521_impish_egg.png',
     'Sparks dance beneath the translucent surface of this dark egg.$20250727_missinic_egg.png',
     'This blood-red egg has a jelly-like texture.$20260426_haimatos_erythro_egg.png',
+    'This glimmering egg emanates the ocean’s sounds.$20260521_Kymatumi_egg.webp',
+    'This egg sits atop a pile of smoldering ash.$20260521_Ignimbri_egg.webp',
 ];
 const desert = [
     'This tiny egg is rather light.$e2.png',
@@ -297,6 +302,9 @@ const desert = [
     'This surface of this egg is covered in pits and craters.$20250521_luna_egg.png',
     'This egg has a fiery pattern.$20250727_flameback_egg.png',
     'This tiny egg glints in the moonlight.$20260329_papillune_blue_egg.png', // Coloration appears to be based on the time of day.
+    'This metal egg discharges bolts of electricity occasionally.$20260521_Stormherald_egg.webp',
+    'This glimmering egg emanates the ocean’s sounds.$20260521_Kymatumi_egg.webp',
+    'This egg sits atop a pile of smoldering ash.$20260521_Ignimbri_egg.webp',
 ];
 const forest = [
     'This tiny egg is rather light.$e2.png',
@@ -416,6 +424,9 @@ const forest = [
     'Moonlight ripples across this fragile egg’s shell.$20250928_moonblight_standard_egg.png',
     'This creepy-looking egg looks distinctly like bone.$20260329_asio_egg.png',
     'This blood-red egg has a jelly-like texture.$20260426_haimatos_erythro_egg.png',
+    'This metal egg discharges bolts of electricity occasionally.$20260521_Stormherald_egg.webp',
+    'This glimmering egg emanates the ocean’s sounds.$20260521_Kymatumi_egg.webp',
+    'This egg sits atop a pile of smoldering ash.$20260521_Ignimbri_egg.webp',
 ];
 const jungle = [
     'This tiny egg is rather light.$e2.png',
@@ -527,6 +538,7 @@ const jungle = [
     'This tiny egg is cold and clammy.$20250521_gloomstalker_egg.png',
     'This egg is carefully nestled away in soft grasses and feathers.$20250629_crested_egg.png',
     'This golden egg is shiny and warm.$20250831_miufu_egg.png',
+    'This egg sits atop a pile of smoldering ash.$20260521_Ignimbri_egg.webp',
 ];
 const volcano = [
     'This tiny egg is rather light.$e2.png',
@@ -617,6 +629,8 @@ const volcano = [
     'This heavy egg has a distinct scorched smell.$e_202406_4.png',
     'This egg has a fiery pattern.$20250727_flameback_egg.png',
     'This prismatic egg smolders slightly.$20260426_prismanic_egg.png',
+    'This metal egg discharges bolts of electricity occasionally.$20260521_Stormherald_egg.webp',
+    'This egg sits atop a pile of smoldering ash.$20260521_Ignimbri_egg.webp',
 ];
 const holiday = [
     // Valentine's Day

@@ -2,42 +2,57 @@
     "manifest_version": 3,
     "name": "Which Egg Is Which",
     "description": "A Chrome extension for Dragon Cave",
-    "version": "3.4.25",
-
-    "icons":
-    {
+    "version": "3.4.26",
+    "icons": {
         "16": "icons/icon16.png",
         "48": "icons/icon48.png",
         "128": "icons/icon128.png"
     },
-
-    "permissions": [ "tabs", "storage" ],
-
-    "background":
-    {
+    "permissions": [
+        "tabs",
+        "storage"
+    ],
+    "background": {
         "service_worker": "src/background/handler.js",
         "type": "module"
     },
-
     "content_scripts": [
         {
-            "matches": [ "https://dragcave.net/locations/*" ],
-            "js": [ "src/content/locations.js" ]
+            "matches": [
+                "https://dragcave.net/locations/*"
+            ],
+            "js": [
+                "src/content/locations.js"
+            ]
         },
         {
-            "matches": [ "https://dragcave.net/abandoned" ],
-            "js": [ "src/content/abandoned.js" ]
+            "matches": [
+                "https://dragcave.net/abandoned"
+            ],
+            "js": [
+                "src/content/abandoned.js"
+            ]
         },
         {
-            "matches": [ "https://dragcave.net/trickortreat*", "https://dragcave.net/festivalofeggs*" ],
-            "js": [ "src/content/collection.js" ]
+            "matches": [
+                "https://dragcave.net/trickortreat*",
+                "https://dragcave.net/festivalofeggs*"
+            ],
+            "js": [
+                "src/content/collection.js"
+            ]
         }
     ],
-
     "web_accessible_resources": [
         {
-          "resources": [ "images/*.png", "images/*.gif" ],
-          "matches": [ "<all_urls>" ]
+            "resources": [
+                "images/*.png",
+                "images/*.gif",
+                "images/*.webp"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
         }
     ]
 }
