@@ -115,6 +115,8 @@ const alpine = [
     'This glimmering egg emanates the ocean’s sounds.$20260521_Kymatumi_egg.webp',
     'This egg sits atop a pile of smoldering ash.$20260521_Ignimbri_egg.webp',
     'This egg is large and ornate.$20260628_Avarice_egg.webp',
+    'Delicate fractures glimmer faintly across the shell of this egg.$20260719_Kintsugi_egg.webp',
+    'This egg has a remarkably hard shell.$20260719_Ovidrake_egg.webp',
 ];
 const coast = [
     'This drab egg rests far from the water’s edge.$e1.png',
@@ -216,6 +218,8 @@ const coast = [
     'This blood-red egg has a jelly-like texture.$20260426_haimatos_erythro_egg.png',
     'This glimmering egg emanates the ocean’s sounds.$20260521_Kymatumi_egg.webp',
     'This egg sits atop a pile of smoldering ash.$20260521_Ignimbri_egg.webp',
+    'Delicate fractures glimmer faintly across the shell of this egg.$20260719_Kintsugi_egg.webp',
+    'This egg has a remarkably hard shell.$20260719_Ovidrake_egg.webp',
 ];
 const desert = [
     'This tiny egg is rather light.$e2.png',
@@ -307,6 +311,8 @@ const desert = [
     'This glimmering egg emanates the ocean’s sounds.$20260521_Kymatumi_egg.webp',
     'This egg sits atop a pile of smoldering ash.$20260521_Ignimbri_egg.webp',
     'This egg is large and ornate.$20260628_Avarice_egg.webp',
+    'Delicate fractures glimmer faintly across the shell of this egg.$20260719_Kintsugi_egg.webp',
+    'This egg has a remarkably hard shell.$20260719_Ovidrake_egg.webp',
 ];
 const forest = [
     'This tiny egg is rather light.$e2.png',
@@ -429,6 +435,8 @@ const forest = [
     'This metal egg discharges bolts of electricity occasionally.$20260521_Stormherald_egg.webp',
     'This glimmering egg emanates the ocean’s sounds.$20260521_Kymatumi_egg.webp',
     'This egg sits atop a pile of smoldering ash.$20260521_Ignimbri_egg.webp',
+    'Delicate fractures glimmer faintly across the shell of this egg.$20260719_Kintsugi_egg.webp',
+    'This egg has a remarkably hard shell.$20260719_Ovidrake_egg.webp',
 ];
 const jungle = [
     'This tiny egg is rather light.$e2.png',
@@ -541,6 +549,8 @@ const jungle = [
     'This egg is carefully nestled away in soft grasses and feathers.$20250629_crested_egg.png',
     'This golden egg is shiny and warm.$20250831_miufu_egg.png',
     'This egg sits atop a pile of smoldering ash.$20260521_Ignimbri_egg.webp',
+    'Delicate fractures glimmer faintly across the shell of this egg.$20260719_Kintsugi_egg.webp',
+    'This egg has a remarkably hard shell.$20260719_Ovidrake_egg.webp',
 ];
 const volcano = [
     'This tiny egg is rather light.$e2.png',
@@ -634,6 +644,8 @@ const volcano = [
     'This metal egg discharges bolts of electricity occasionally.$20260521_Stormherald_egg.webp',
     'This egg sits atop a pile of smoldering ash.$20260521_Ignimbri_egg.webp',
     'This heavy egg is enveloped in thick, sturdy plates.$20260628_Slag-Tail_egg.webp',
+    'Delicate fractures glimmer faintly across the shell of this egg.$20260719_Kintsugi_egg.webp',
+    'This egg has a remarkably hard shell.$20260719_Ovidrake_egg.webp',
 ];
 const holiday = [
     // Valentine's Day
