@@ -220,6 +220,7 @@ const coast = [
     'This egg sits atop a pile of smoldering ash.$20260521_Ignimbri_egg.webp',
     'Delicate fractures glimmer faintly across the shell of this egg.$20260719_Kintsugi_egg.webp',
     'This egg has a remarkably hard shell.$20260719_Ovidrake_egg.webp',
+    'This odorous egg is sitting in a pile of seaweed.$20260830_Seaweed_egg.webp',
 ];
 const desert = [
     'This tiny egg is rather light.$e2.png',
@@ -313,6 +314,7 @@ const desert = [
     'This egg is large and ornate.$20260628_Avarice_egg.webp',
     'Delicate fractures glimmer faintly across the shell of this egg.$20260719_Kintsugi_egg.webp',
     'This egg has a remarkably hard shell.$20260719_Ovidrake_egg.webp',
+    'It’s...a pile of coal? When you move a piece, the rest follow.$20260830_Coal_egg.webp',
 ];
 const forest = [
     'This tiny egg is rather light.$e2.png',
@@ -646,6 +648,7 @@ const volcano = [
     'This heavy egg is enveloped in thick, sturdy plates.$20260628_Slag-Tail_egg.webp',
     'Delicate fractures glimmer faintly across the shell of this egg.$20260719_Kintsugi_egg.webp',
     'This egg has a remarkably hard shell.$20260719_Ovidrake_egg.webp',
+    'It’s...a pile of coal? When you move a piece, the rest follow.$20260830_Coal_egg.webp',
 ];
 const holiday = [
     // Valentine's Day
