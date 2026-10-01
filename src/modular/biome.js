@@ -117,6 +117,7 @@ const alpine = [
     'This egg is large and ornate.$20260628_Avarice_egg.webp',
     'Delicate fractures glimmer faintly across the shell of this egg.$20260719_Kintsugi_egg.webp',
     'This egg has a remarkably hard shell.$20260719_Ovidrake_egg.webp',
+    'The shell of this rough egg is incredibly tough.$20260927_Gilgrot_egg.webp',
 ];
 const coast = [
     'This drab egg rests far from the water’s edge.$e1.png',
@@ -315,6 +316,7 @@ const desert = [
     'Delicate fractures glimmer faintly across the shell of this egg.$20260719_Kintsugi_egg.webp',
     'This egg has a remarkably hard shell.$20260719_Ovidrake_egg.webp',
     'It’s...a pile of coal? When you move a piece, the rest follow.$20260830_Coal_egg.webp',
+    'The shell of this rough egg is incredibly tough.$20260927_Gilgrot_egg.webp',
 ];
 const forest = [
     'This tiny egg is rather light.$e2.png',
@@ -553,6 +555,7 @@ const jungle = [
     'This egg sits atop a pile of smoldering ash.$20260521_Ignimbri_egg.webp',
     'Delicate fractures glimmer faintly across the shell of this egg.$20260719_Kintsugi_egg.webp',
     'This egg has a remarkably hard shell.$20260719_Ovidrake_egg.webp',
+    'The shell of this rough egg is incredibly tough.$20260927_Gilgrot_egg.webp',
 ];
 const volcano = [
     'This tiny egg is rather light.$e2.png',
